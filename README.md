@@ -1,21 +1,17 @@
+# Hi there, I'm Aline 👋
 
+I'm a passionate web developer with experience in front-end and back-end technologies
 
-## About Me
+- 💬 Ask me about web development
 
-I'm a passionate web developer with experience in front-end and back-end technologies. I love building user-friendly and performant web applications.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-CROIRE&layout=compact)](https://github.com/Aline-CROIRE)
 
 ## Skills
 
-- HTML5
+- PHP
+- Node js
+- Express js
+- HTML
 - CSS
 - JavaScript
-- Express js
-- Node.js
-- SQL
-- 
-
-## Social Profiles
-
-- [instagram](https://instagram.com/croire-aline)
-- [Twitter](https://twitter.com/@AlineNiyon99024)
-- [LinkedIn](https://linkedin.com/in/NIYONIZERAAline)
