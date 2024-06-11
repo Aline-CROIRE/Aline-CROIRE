@@ -18,12 +18,6 @@ I'm a passionate web developer with experience in front-end and back-end technol
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Aline-CROIRE&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-/*![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-CROIRE&layout=compact)](https://github.com/Aline-CROIRE)*/
-
 ## Skills
 
 - PHP
