@@ -9,9 +9,9 @@ I'm a passionate web developer with experience in front-end and back-end technol
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aline-CROIRE&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-CROIRE&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&theme=White&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aline-CROIRE&theme=white&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-CROIRE&theme=white&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aline-CROIRE&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -21,8 +21,8 @@ I'm a passionate web developer with experience in front-end and back-end technol
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-CROIRE&layout=compact)](https://github.com/Aline-CROIRE)
+/*![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-CROIRE&layout=compact)](https://github.com/Aline-CROIRE)*/
 
 ## Skills
 
