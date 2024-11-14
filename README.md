@@ -23,7 +23,7 @@ I'm a passionate web developer with experience in front-end and back-end technol
 ![](https://github-profile-trophy.vercel.app/?username=Aline-CROIRE&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=Aline-CROIRE&icon=0&color=0)](https://visitcount.itsvg.in)
 ## Skills
 
 - PHP
