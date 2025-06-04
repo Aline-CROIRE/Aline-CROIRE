@@ -5,7 +5,7 @@ I'm a passionate web developer with experience in front-end and back-end technol
 - 💬 Ask me about web development
 - 
   ## 🚀 About Me
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Mobile Development using  React Native
 - 👯 I’m looking to collaborate on different open source
 - 📫 How to reach me: niyocroirealine@gmail.com
 
