@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Aline NIYONIZERA
 
 I'm a passionate full-stack web developer from Rwanda 🇷🇼  
-I love building powerful, clean, and accessible web applications.
+I love building powerful, clean, and accessible web and mobile applications.
 
 ---
 
@@ -10,7 +10,7 @@ I love building powerful, clean, and accessible web applications.
 - 🌱 Currently learning **React Native** for mobile app development  
 - 💻 Focused on **JavaScript, React, Node.js & MongoDB**  
 - 🤝 Open to collaboration on **open-source and real-world projects**  
-- 📫 Reach me: **niyocroirealine@gmail.com**
+- 📫 Reach me at: **niyocroirealine@gmail.com**
 
 ---
 
@@ -34,15 +34,15 @@ I love building powerful, clean, and accessible web applications.
 
 ---
 
-## 📊 GitHub Stats (Advanced)
+## 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&theme=react" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&theme=react" alt="Aline's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Aline-CROIRE&theme=react&hide_border=false" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Aline-CROIRE&theme=react&hide_border=false" alt="Aline's GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -51,7 +51,7 @@ I love building powerful, clean, and accessible web applications.
 
 ## 📌 Detailed Contributions
 
-![Metrics](https://metrics.lecoq.io/Aline-CROIRE?template=classic&base.indepth=false&base.hireable=false&config.timezone=Africa%2FKigali&isocalendar=true&languages=true&stars=true&followup=true&repositories=100&lines=true&habits=true&activity=true&base=header)
+![Metrics](https://metrics.lecoq.io/Aline-CROIRE?template=classic&config.timezone=Africa%2FKigali)
 
 ---
 
@@ -61,19 +61,22 @@ I love building powerful, clean, and accessible web applications.
 
 ---
 
-## ✨ GitHub Contributions Calendar
+## 📈 GitHub Contributions Calendar
 
-[![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Aline-CROIRE&theme=github-compact)](https://github.com/Aline-CROIRE)
-
----
-
-## 📈 Profile Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=Aline-CROIRE&label=Profile%20Views&color=6&icon=6)](https://visitcount.itsvg.in)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&theme=react-dark)
 
 ---
 
-## 🌐 Let’s Connect
+## 🧠 Skills Summary
+
+- ✅ HTML, CSS, JavaScript, Tailwind  
+- ✅ React, Redux, WordPress  
+- ✅ Node.js, Express, MongoDB, MySQL  
+- ✅ Bash, Ubuntu, Git, Photoshop  
+
+---
+
+## 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/niyonizera-aline-105884291/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/croire_aline/)  
