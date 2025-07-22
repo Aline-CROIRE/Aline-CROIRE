@@ -21,10 +21,10 @@ I love building powerful, clean, and accessible web and mobile applications.
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,17 +42,18 @@ I love building powerful, clean, and accessible web and mobile applications.
       <img src="https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&theme=react" alt="Aline's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Aline-CROIRE&theme=react&hide_border=false" alt="Aline's GitHub Streak" />
+      <img src="https://github-readme-streak-stats.demolab.com?user=Aline-CROIRE&theme=react&hide_border=false" alt="Aline's GitHub Streak" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📌 Detailed Contributions
+## 📌 Real-Time Contributions
 
-![Metrics](https://github-metrics.vercel.app/api?username=Aline-CROIRE&template=classic)
+![GitHub Metrics](https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/main/github-metrics.svg)
 
+> 🛠️ Ensure you [set up GitHub Metrics GitHub Action](https://github.com/lowlighter/metrics#-documentation) in your repository to update this SVG automatically.
 
 ---
 
@@ -62,9 +63,9 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ---
 
-## 📈 GitHub Contributions Calendar
+## 📈 Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&theme=react-dark&hide_border=false)
 
 ---
 
