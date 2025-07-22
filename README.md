@@ -53,7 +53,7 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ![GitHub Metrics](https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/main/github-metrics.svg)
 
-> 🛠️ Ensure you [set up GitHub Metrics GitHub Action](https://github.com/lowlighter/metrics#-documentation) in your repository to update this SVG automatically.
+> [lowlighter/metrics](https://github.com/lowlighter/metrics) GitHub Action.
 
 ---
 
