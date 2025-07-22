@@ -51,7 +51,8 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ## 📌 Detailed Contributions
 
-![Metrics](https://metrics.lecoq.io/Aline-CROIRE?template=classic&config.timezone=Africa%2FKigali)
+![Metrics](https://github-metrics.vercel.app/api?username=Aline-CROIRE&template=classic)
+
 
 ---
 
