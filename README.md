@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Aline NIYONIZERA</h1>
 
 <p align="center">
-  A passionate full-stack web developer from Rwanda 🇷🇼.
+  A passionate full-stack web developer from Rwanda 🇷🇼.<br>
   I love building powerful, clean, and accessible web and mobile applications.
 </p>
 
@@ -50,15 +50,10 @@
 <h2 align="center">📌 Detailed Contributions</h2>
 
 <p align="center">
-  To display detailed contributions like the example image, you can use <a href="https://github.com/lowlighter/metrics" target="_blank">lowlighter/metrics</a>.
-  You'll need to set up a GitHub Action in your repository to generate an SVG file (e.g., `metrics.svg`). Once generated, you can embed it like this:
-</p>
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/Aline-CROIRE?template=classic&plugins=introduction,activity,community,repositories,followup&base=header,activity,community,repositories,metadata&introduction=yes&activity=yes&community=yes&repositories=yes&followup=yes" alt="Aline's Detailed Metrics" />
+  <img src="https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/main/github-metrics.svg" alt="Aline's Detailed Metrics" />
 </p>
 <p align="center">
-  <i>(Note: The above image uses a live demo link for illustration. For best results and to display your actual stats as shown in your example, you should configure a GitHub Action in your repository to generate and commit your `metrics.svg`.)</i>
+  <i>(This detailed metric graph is generated and updated automatically via a GitHub Action in your repository.)</i>
 </p>
 
 ---
