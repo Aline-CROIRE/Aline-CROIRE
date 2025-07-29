@@ -1,15 +1,15 @@
 # 👋 Hi there, I'm Aline NIYONIZERA
 
-I'm a passionate full-stack web developer from Rwanda 🇷🇼  
+I'm a passionate full-stack web developer from Rwanda 🇷🇼.  
 I love building powerful, clean, and accessible web and mobile applications.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **React Native** for mobile app development  
-- 💻 Focused on **JavaScript, React, Node.js & MongoDB**  
-- 🤝 Open to collaboration on **open-source and real-world projects**  
+- 🌱 Currently learning **React Native** for mobile app development.
+- 💻 Focused on **JavaScript, React, Node.js & MongoDB**.
+- 🤝 Open to collaboration on **open-source and real-world projects**.
 - 📫 Reach me at: **niyocroirealine@gmail.com**
 
 ---
@@ -53,7 +53,6 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ![Metrics](https://github-metrics.vercel.app/api?username=Aline-CROIRE&template=classic)
 
-
 ---
 
 ## 🏆 GitHub Trophies
@@ -70,19 +69,19 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ## 🧠 Skills Summary
 
-- ✅ HTML, CSS, JavaScript, Tailwind  
-- ✅ React, Redux, WordPress  
-- ✅ Node.js, Express, MongoDB, MySQL  
-- ✅ Bash, Ubuntu, Git, Photoshop  
+- ✅ HTML, CSS, JavaScript, Tailwind
+- ✅ React, Redux, WordPress
+- ✅ Node.js, Express, MongoDB, MySQL
+- ✅ Bash, Ubuntu, Git, Photoshop
 
 ---
 
 ## 📬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/niyonizera-aline-105884291/)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/croire_aline/)  
-[![Twitter](https://img.shields.io/twitter/follow/AlineNiyon99024?style=social)](https://twitter.com/AlineNiyon99024)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen)](https://wa.me/250790635120)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/niyonizera-aline-105884291/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/croire_aline/)
+[![Twitter](https://img.shields.io/twitter/follow/AlineNiyon99024?style=social)](https://twitter.com/AlineNiyon99024)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-brightgreen)](https://wa.me/250790635120)
 [![Email](https://img.shields.io/badge/Email-Send%20me%20an%20email-red)](mailto:niyocroirealine@gmail.com)
 
 ---
