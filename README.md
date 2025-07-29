@@ -53,7 +53,7 @@
   <img src="https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/main/github-metrics.svg" alt="Aline's Detailed Metrics" />
 </p>
 <p align="center">
-  <i>(This detailed metric graph is generated and updated automatically via a GitHub Action in your repository.)</i>
+  <i>(This detailed metric graph is generated and updated automatically via a GitHub Action in your repository, assuming the action is set up to commit the `github-metrics.svg` file to your `main` branch.)</i>
 </p>
 
 ---
