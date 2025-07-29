@@ -1,15 +1,15 @@
 # 👋 Hi there, I'm Aline NIYONIZERA
 
-I'm a passionate full-stack web developer from Rwanda 🇷🇼.  
+I'm a passionate full-stack web developer from Rwanda 🇷🇼
 I love building powerful, clean, and accessible web and mobile applications.
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **React Native** for mobile app development.
-- 💻 Focused on **JavaScript, React, Node.js & MongoDB**.
-- 🤝 Open to collaboration on **open-source and real-world projects**.
+- 🌱 Currently learning **React Native** for mobile app development
+- 💻 Focused on **JavaScript, React, Node.js & MongoDB**
+- 🤝 Open to collaboration on **open-source and real-world projects**
 - 📫 Reach me at: **niyocroirealine@gmail.com**
 
 ---
@@ -36,34 +36,28 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&theme=react" alt="Aline's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Aline-CROIRE&theme=react&hide_border=false" alt="Aline's GitHub Streak" />
-    </td>
-  </tr>
-</table>
+![Aline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&theme=react)
+![Aline's GitHub Streak](https://streak-stats.demolab.com/?user=Aline-CROIRE&theme=react&hide_border=false) [12, 14]
 
 ---
 
 ## 📌 Detailed Contributions
 
-![Metrics](https://github-metrics.vercel.app/api?username=Aline-CROIRE&template=classic)
+For detailed contributions, it's recommended to use [lowlighter/metrics](https://github.com/lowlighter/metrics) by setting up a GitHub Action to generate an SVG in your repository. Then you can link it like this:
+
+![Metrics](/github-metrics.svg)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Aline-CROIRE&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Aline-CROIRE&theme=radical&no-frame=false&no-bg=false&margin-w=4) [1, 7]
 
 ---
 
 ## 📈 GitHub Contributions Calendar
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&theme=react-dark) [6, 11]
 
 ---
 
