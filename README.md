@@ -61,11 +61,7 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ## 📈 GitHub Metrics
 
-> If this doesn't load, you may need to visit the [GitHub Metrics App](https://github.com/lowlighter/metrics) and deploy your own.
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/Aline-CROIRE?template=classic&config.timezone=Africa%2FKigali" />
-</div>
+![Metrics](https://raw.githubusercontent.com/Aline-CROIRE/metrics/master/metrics.svg)
 
 ---
 
