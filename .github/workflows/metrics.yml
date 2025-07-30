@@ -1,8 +1,7 @@
-name: GitHub Metrics
+name: Metrics
 
 on:
-  schedule: [{cron: "0 */6 * * *"}] # every 6 hours
-  push: {branches: ["main"]}
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
 
 jobs:
@@ -11,7 +10,9 @@ jobs:
     steps:
       - uses: Aline-CROIRE/metrics@latest
         with:
+          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics.svg
-          base: header, activity, community, repositories, metadata
-          config_timezone: Africa/Kigali
+          user: Aline-CROIRE
+          base: header, repositories
+          plugin_activity: yes
+          plugin_languages: yes
