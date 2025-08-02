@@ -47,7 +47,7 @@ I love building powerful, clean, and accessible web and mobile applications.
 ## 📌 Contributions & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&theme=react-dark" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&theme=react-dark&custom_title=Aline's%20GitHub%20Activity%20Graph&hide_border=false&token=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" />
 </div>
 
 ---
