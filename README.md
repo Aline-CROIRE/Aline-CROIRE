@@ -37,8 +37,7 @@ I love building powerful, clean, and accessible web and mobile applications.
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&count_private=true&hide_border=false&theme=react&token=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" height="180px" />
+  <img src="https://github-readme-stats-eaqaqi99g-aline-croires-projects.vercel.app/api?username=Aline-CROIRE&show_icons=true&count_private=true&hide_border=false&theme=react" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aline-CROIRE&theme=react&hide_border=false" height="180px" />
 </div>
 
@@ -47,7 +46,7 @@ I love building powerful, clean, and accessible web and mobile applications.
 ## 📌 Contributions & Activity
 
 <div align="center">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&theme=react-dark&custom_title=Aline's%20GitHub%20Activity%20Graph&hide_border=false&token=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" />
+  <img src="github-readme-activity-graph-aiymzpwyp-aline-croires-projects.vercel.app/graph?username=Aline-CROIRE&theme=react-dark&custom_title=Aline's%20GitHub%20Activity%20Graph&hide_border=false" />
 </div>
 
 ---
