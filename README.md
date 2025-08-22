@@ -5,7 +5,7 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🌱 Currently learning **React Native** for mobile app development  
 - 💻 Focused on **JavaScript, React, Node.js & MongoDB**  
@@ -14,7 +14,7 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ---
 
-## 🧰 Languages & Tools
+## Languages & Tools
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -44,7 +44,7 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ---
 
-## 📌 Contributions & Activity
+##  Contributions & Activity
 
 <div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&theme=react-dark&custom_title=Aline's%20GitHub%20Activity%20Graph&hide_border=false&token=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" />
@@ -52,7 +52,7 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aline-CROIRE&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
@@ -60,15 +60,15 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ---
 
-### ✍️ Random Dev Quote
+### Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aline-CROIRE&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-## 🧠 Skills Summary
+## Skills Summary
 
 - ✅ HTML, CSS, JavaScript, Tailwind  
 - ✅ React, Redux, WordPress  
@@ -77,7 +77,7 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/niyonizera-aline-105884291/)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange?style=flat-square&logo=instagram)](https://www.instagram.com/croire_aline/)  
