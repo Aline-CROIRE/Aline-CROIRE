@@ -60,9 +60,11 @@ I love building powerful, clean, and accessible web and mobile applications.
 
 ---
 
-## 📈 GitHub Metrics
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Metrics](https://raw.githubusercontent.com/Aline-CROIRE/metrics/master/metrics.svg)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Aline-CROIRE&limit=10&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
