@@ -30,7 +30,7 @@ I'm a passionate developer from Rwanda 🇷🇼 with a strong foundation in full
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&count_private=true&hide_border=false&theme=react" height="180px" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Aline-CROIRE&theme=react&hide_border=false" height="180px" />
+  <img src="https://streak-stats.demolab.com?user=Aline-CROIRE&theme=react&hide_border=false" height="180px" />
 </div>
 
 ---
