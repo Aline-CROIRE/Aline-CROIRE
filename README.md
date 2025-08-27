@@ -54,8 +54,7 @@ I'm a passionate developer from Rwanda 🇷🇼 with a strong foundation in full
 
 <div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&theme=react-dark&custom_title=Aline's%20GitHub%20Activity%20Graph&hide_border=false" />
- <br/>
- ![GitHub Calendar](https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&theme=tokyonight&count_private=true)
+
 </div>
 
 ---
