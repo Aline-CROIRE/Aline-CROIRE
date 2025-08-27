@@ -40,11 +40,10 @@ I'm a passionate developer from Rwanda 🇷🇼 with a strong foundation in full
 ---
 
 ## 📊 GitHub Stats & Streaks
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&count_private=true&hide_border=false&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Aline-CROIRE&theme=tokyonight&hide_border=false" height="180px" />
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aline-CROIRE&theme=tokyonight&hide_border=false" height="180px" />
+</div>  
 
 ---
 
