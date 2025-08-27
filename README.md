@@ -47,7 +47,7 @@ I'm a passionate developer from Rwanda 🇷🇼 with a strong foundation in full
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aline-CROIRE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aline-CROIRE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </div>
 
 ---
