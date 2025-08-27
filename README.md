@@ -43,7 +43,7 @@ I'm a passionate developer from Rwanda 🇷🇼 with a strong foundation in full
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&count_private=true&hide_border=false&theme=tokyonight" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aline-CROIRE&theme=tokyonight&hide_border=false" height="180px" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=Aline-CROIRE&theme=tokyonight&hide_border=false" height="180px" />
 </div>
 
 ---
@@ -53,6 +53,14 @@ I'm a passionate developer from Rwanda 🇷🇼 with a strong foundation in full
 <div align="center">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&theme=react-dark&custom_title=Aline's%20GitHub%20Activity%20Graph&hide_border=false" />
 </div>
+
+---
+
+## 🌐 Open Source Activity
+![Aline's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
+## 📅 Commits Calendar
+![GitHub Calendar](https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
