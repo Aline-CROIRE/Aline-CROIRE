@@ -158,18 +158,18 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#72ed5cc</div>
-                                        <div class="message">Merge pull request #8 from Aline-CROIRE/PO
+                                        <div class="sha">#590a167</div>
+                                        <div class="message">Merge pull request #9 from Aline-CROIRE/PO
 
-Purchase order</div>
+Updating Purchase order workflow</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#179ebb9</div>
+                                        <div class="sha">#dce5544</div>
                                         <div class="message">Merge branch 'main' into PO</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3f84c92</div>
-                                        <div class="message">Purchase order</div>
+                                        <div class="sha">#e71bd76</div>
+                                        <div class="message">Updating Purchase order workflow</div>
                                     </div>
                                 </div>
                             </section>
@@ -182,12 +182,12 @@ Purchase order</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#8 Purchase order</span>
+                                        <span class="issue">#9 Updating Purchase order workflow</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Aline-CROIRE/C-Management-System</span></div>
-                                    <div>10 files changed <span class="code">++935 --905</span></div>
+                                    <div>6 files changed <span class="code">++1505 --112</span></div>
                                 </div>
                             </section>
                         </div>
@@ -198,14 +198,14 @@ Purchase order</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 14 commits in
+                                        Pushed 16 commits in
                                         <span class="repo">Aline-CROIRE/C-Management-System</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">PO</span></div>
                                     <div class="commit">
-                                        <div class="sha">#179ebb9</div>
+                                        <div class="sha">#dce5544</div>
                                         <div class="message">Merge branch 'main' into PO</div>
                                     </div>
                                 </div>
@@ -219,12 +219,12 @@ Purchase order</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#8 Purchase order</span>
+                                        <span class="issue">#9 Updating Purchase order workflow</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Aline-CROIRE/C-Management-System</span></div>
-                                    <div>10 files changed <span class="code">++931 --954</span></div>
+                                    <div>6 files changed <span class="code">++1502 --116</span></div>
                                 </div>
                             </section>
                         </div>
@@ -242,8 +242,8 @@ Purchase order</div>
                                 <div class="details">
                                     <div>on branch <span class="code">PO</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3f84c92</div>
-                                        <div class="message">Purchase order</div>
+                                        <div class="sha">#e71bd76</div>
+                                        <div class="message">Updating Purchase order workflow</div>
                                     </div>
                                 </div>
                             </section>
