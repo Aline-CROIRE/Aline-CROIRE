@@ -158,14 +158,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8de6d16</div>
-                                        <div class="message">Merge pull request #14 from Aline-CROIRE/Sales
+                                        <div class="sha">#7e04084</div>
+                                        <div class="message">Finalising Reports
 
-Working on reports</div>
+Finalising Reports</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d6e54f5</div>
-                                        <div class="message">Working on reports</div>
+                                        <div class="sha">#d28e535</div>
+                                        <div class="message">Finalising Reports</div>
                                     </div>
                                 </div>
                             </section>
@@ -178,12 +178,12 @@ Working on reports</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#14 Working on reports</span>
+                                        <span class="issue">#16 Finalising Reports</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Aline-CROIRE/C-Management-System</span></div>
-                                    <div>2 files changed <span class="code">++1419 --36</span></div>
+                                    <div>3 files changed <span class="code">++1550 --78</span></div>
                                 </div>
                             </section>
                         </div>
@@ -195,12 +195,12 @@ Working on reports</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#14 Working on reports</span>
+                                        <span class="issue">#16 Finalising Reports</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Aline-CROIRE/C-Management-System</span></div>
-                                    <div>2 files changed <span class="code">++1419 --36</span></div>
+                                    <div>3 files changed <span class="code">++1550 --78</span></div>
                                 </div>
                             </section>
                         </div>
@@ -216,10 +216,10 @@ Working on reports</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">Sales</span></div>
+                                    <div>on branch <span class="code">Reports</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d6e54f5</div>
-                                        <div class="message">Working on reports</div>
+                                        <div class="sha">#d28e535</div>
+                                        <div class="message">Finalising Reports</div>
                                     </div>
                                 </div>
                             </section>
@@ -238,14 +238,14 @@ Working on reports</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a3fbb17</div>
-                                        <div class="message">Merge pull request #13 from Aline-CROIRE/Sales
+                                        <div class="sha">#40540af</div>
+                                        <div class="message">Merge pull request #15 from Aline-CROIRE/Reports
 
-Working on reports</div>
+Finalising Reports</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#b48758f</div>
-                                        <div class="message">Working on reports</div>
+                                        <div class="sha">#3b3f4cf</div>
+                                        <div class="message">Finalising Reports</div>
                                     </div>
                                 </div>
                             </section>
