@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="651" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="934" class="">
     <defs>
         <style/>
     </defs>
@@ -151,21 +151,89 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
+                                        Pushed 19 commits in
                                         <span class="repo">Aline-CROIRE/C-Management-System</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7e04084</div>
-                                        <div class="message">Finalising Reports
+                                        <div class="sha">#51338bc</div>
+                                        <div class="message">Merge pull request #17 from Aline-CROIRE/Sales
 
-Finalising Reports</div>
+Sales</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d28e535</div>
-                                        <div class="message">Finalising Reports</div>
+                                        <div class="sha">#f3c795d</div>
+                                        <div class="message">COrrecting errors</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d6e54f5</div>
+                                        <div class="message">Working on reports</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b48758f</div>
+                                        <div class="message">Working on reports</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2cca5ac</div>
+                                        <div class="message">Finalising Sales</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3c0b719</div>
+                                        <div class="message">Working On sales Workflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6b86b26</div>
+                                        <div class="message">Working On sales Workflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0f3dd94</div>
+                                        <div class="message">Finalising Purchase order Workflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e71bd76</div>
+                                        <div class="message">Updating Purchase order workflow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3f84c92</div>
+                                        <div class="message">Purchase order</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6a0c220</div>
+                                        <div class="message">Updating Purchase order Flow</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7333a7</div>
+                                        <div class="message">Finalising Inventory Table</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#39d09f2</div>
+                                        <div class="message">Finalising Inventory Table</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cb41ce8</div>
+                                        <div class="message">Finalising Intentory Creation And Updated</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#66be07b</div>
+                                        <div class="message">Improving AddItem Model</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f4f98db</div>
+                                        <div class="message">Updating and connecting Inventory, suppliers and Purchase Orders Functionalities</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dd84fe2</div>
+                                        <div class="message">PURCHASE ORDER</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#29cec0b</div>
+                                        <div class="message">Updating CRUD for IMS</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cc8f6f9</div>
+                                        <div class="message">Inventory Crud Operations</div>
                                     </div>
                                 </div>
                             </section>
@@ -178,12 +246,12 @@ Finalising Reports</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#16 Finalising Reports</span>
+                                        <span class="issue">#17 Sales</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Aline-CROIRE/C-Management-System</span></div>
-                                    <div>3 files changed <span class="code">++1550 --78</span></div>
+                                    <div>11494 files changed <span class="code">++2006343 --2122</span></div>
                                 </div>
                             </section>
                         </div>
@@ -195,12 +263,12 @@ Finalising Reports</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#16 Finalising Reports</span>
+                                        <span class="issue">#17 Sales</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">Aline-CROIRE/C-Management-System</span></div>
-                                    <div>3 files changed <span class="code">++1550 --78</span></div>
+                                    <div>11494 files changed <span class="code">++2006343 --2122</span></div>
                                 </div>
                             </section>
                         </div>
@@ -216,10 +284,10 @@ Finalising Reports</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">Reports</span></div>
+                                    <div>on branch <span class="code">Sales</span></div>
                                     <div class="commit">
-                                        <div class="sha">#d28e535</div>
-                                        <div class="message">Finalising Reports</div>
+                                        <div class="sha">#f3c795d</div>
+                                        <div class="message">COrrecting errors</div>
                                     </div>
                                 </div>
                             </section>
@@ -238,13 +306,13 @@ Finalising Reports</div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#40540af</div>
-                                        <div class="message">Merge pull request #15 from Aline-CROIRE/Reports
+                                        <div class="sha">#7e04084</div>
+                                        <div class="message">Finalising Reports
 
 Finalising Reports</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#3b3f4cf</div>
+                                        <div class="sha">#d28e535</div>
                                         <div class="message">Finalising Reports</div>
                                     </div>
                                 </div>
