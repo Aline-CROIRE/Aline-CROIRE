@@ -1,4 +1,4 @@
-![Aline's Animated Banner](https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/aline_banner.gif)
+![Aline's Animated Banner](https://github.com/Aline-CROIRE/Aline-CROIRE/blob/main/aline_banner.gif)
 
 
 # 👋 Hi there, I'm Aline NIYONIZERA
