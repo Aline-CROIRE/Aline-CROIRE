@@ -1,4 +1,5 @@
-![Aline Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👩‍💻+Aline+NIYONIZERA;Full-Stack+Developer;AI+%26+ML+Enthusiast;From+Rwanda+🇷🇼;Let's+Build+Impactful+Solutions!)
+![Aline's Animated Banner](https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/main/assets/banner.gif)
+
 
 # 👋 Hi there, I'm Aline NIYONIZERA
 
