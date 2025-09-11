@@ -1,3 +1,5 @@
+![Aline Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=👩‍💻+Aline+NIYONIZERA;Full-Stack+Developer;AI+%26+ML+Enthusiast;From+Rwanda+🇷🇼;Let's+Build+Impactful+Solutions!)
+
 # 👋 Hi there, I'm Aline NIYONIZERA
 
 I'm a passionate developer from Rwanda 🇷🇼 with a strong foundation in full-stack web development and a new focus on **Machine Learning and Deep Learning**. I love building powerful, clean, and accessible applications.
