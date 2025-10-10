@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="618" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="635" class="">
     <defs>
         <style/>
     </defs>
@@ -152,14 +152,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Aline-CROIRE/farmlytics1</span>
+                                        <span class="repo">Muhinde234/farmlytics</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8da677b</div>
-                                        <div class="message">Update cropPlanController.js</div>
+                                        <div class="sha">#cb48c77</div>
+                                        <div class="message">Update analyticsController.js</div>
                                     </div>
                                 </div>
                             </section>
@@ -172,14 +172,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Aline-CROIRE/farmlytics1</span>
+                                        <span class="repo">Muhinde234/farmlytics</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#98c512d</div>
-                                        <div class="message">Update cropPlanController.js</div>
+                                        <div class="sha">#f9208b9</div>
+                                        <div class="message">Update adminController.js</div>
                                     </div>
                                 </div>
                             </section>
@@ -192,14 +192,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Aline-CROIRE/farmlytics1</span>
+                                        <span class="repo">Muhinde234/farmlytics</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#040f005</div>
-                                        <div class="message">Update cropPlan.js</div>
+                                        <div class="sha">#d45e3cd</div>
+                                        <div class="message">Update winston.js</div>
                                     </div>
                                 </div>
                             </section>
@@ -212,14 +212,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">Aline-CROIRE/farmlytics1</span>
+                                        <span class="repo">Muhinde234/farmlytics</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
+                                    <div>on branch <span class="code">Updates</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bf310f3</div>
-                                        <div class="message">Update cropPlan.js</div>
+                                        <div class="sha">#31a38e2</div>
+                                        <div class="message">Updated routes</div>
                                     </div>
                                 </div>
                             </section>
@@ -231,15 +231,21 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Aline-CROIRE/farmlytics1</span>
+                                        Pushed 2 commits in
+                                        <span class="repo">Muhinde234/farmlytics</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#63f0df3</div>
-                                        <div class="message">Update cropPlanController.js</div>
+                                        <div class="sha">#40d0bd9</div>
+                                        <div class="message">Merge pull request #29 from Muhinde234/Updates
+
+Updated profile</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#749a266</div>
+                                        <div class="message">Updated profile</div>
                                     </div>
                                 </div>
                             </section>
