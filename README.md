@@ -135,17 +135,21 @@ open_to:
 ---
 
 <!-- CONTRIBUTION SNAKE ANIMATION -->
-## 🐍 &nbsp;Contribution Graph
+## 🐍 &nbsp;My GitHub Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/output/github-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/output/github-snake.svg"/>
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/output/github-snake.svg" width="100%" style="max-width:800px;"/>
 </picture>
 
 </div>
+
+<p align="center">
+  <em>💡 The snake grows as I contribute daily — keeping coding streaks alive!</em>
+</p>
 ---
 
 <!-- CURRENT FOCUS -->
