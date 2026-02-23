@@ -1,121 +1,121 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  ANIMATED HEADER BANNER                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0d2137&height=220&section=header&text=Aline%20NIYONIZERA&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=⚡%20Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20%26%20IoT%20Builder%20⚡&descAlignY=62&descSize=17&descColor=8b949e"/>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   ANIMATED TYPING SVG                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=%24+whoami+%E2%86%92+Software+Engineer+from+%F0%9F%87%B7%F0%9F%87%BC+Rwanda;%24+skills+%E2%86%92+React+%7C+Node.js+%7C+AI+%7C+IoT+%7C+PostgreSQL;%24+building+%E2%86%92+Farmlytics+%7C+BeansAI+%7C+KIM+Fashion;%24+mission+%E2%86%92+Empowering+Africa+through+Technology+%F0%9F%9A%80;%24+status+%E2%86%92+Open+to+Collaborations+%26+Opportunities+%E2%9C%85)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:0d1117&height=250&section=header&text=Aline%20NIYONIZERA&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%7C%20Full-Stack%20%7C%20AI%20%26%20IoT%20Builder&descAlignY=62&descSize=18&descColor=8b949e" />
 
 <br/>
 
-<!-- BADGES ROW -->
-<img src="https://komarev.com/ghpvc/?username=Aline-CROIRE&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=PROFILE+VIEWS"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+Engineer+%7C+Rwanda+%F0%9F%87%B7%F0%9F%87%BC+to+the+World+%F0%9F%8C%8D;%24+stack+%E2%86%92+React+%7C+Node.js+%7C+Python+%7C+PostgreSQL;%24+building+%E2%86%92+AI+%7C+IoT+%7C+Fashion+Tech+%7C+AgriTech;%24+status+%E2%86%92+Open+to+Opportunities+%E2%9C%85)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aline-CROIRE&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=PROFILE+VIEWS" />
 &nbsp;
-<a href="https://github.com/Aline-CROIRE?tab=followers">
-  <img src="https://img.shields.io/github/followers/Aline-CROIRE?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&label=FOLLOWERS"/>
-</a>
+<a href="https://github.com/Aline-CROIRE?tab=followers"><img src="https://img.shields.io/github/followers/Aline-CROIRE?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github&label=FOLLOWERS"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-2ea043?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-✅-2ea043?style=for-the-badge&labelColor=0d1117"/>
 &nbsp;
-<img src="https://img.shields.io/badge/BASED%20IN-Kigali%2C%20Rwanda%20%F0%9F%87%B7%F0%9F%87%BC-orange?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/KIGALI-Rwanda%20🇷🇼-ff6b35?style=for-the-badge&labelColor=0d1117"/>
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--        ABOUT ME — ANIMATED GIRL AT PC + YAML CODE          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+## 👩‍💻 About Me
 
-<img align="right" width="370" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif" alt="girl coding at pc"/>
-
-### 👩‍💻 &nbsp;`$ cat about_me.yaml`
+<img align="right" width="360" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif"/>
 
 ```yaml
-# ════════════════════════════════════════
-#    ALINE NIYONIZERA — SOFTWARE ENGINEER
-# ════════════════════════════════════════
-
-profile:
-  name:       "Aline NIYONIZERA"
-  location:   "Kigali, Rwanda 🇷🇼"
-  university: "University of Rwanda"
-  role:       "Software Engineering Student → Engineer"
-  email:      "niyocroirealine@gmail.com"
+name:       Aline NIYONIZERA
+location:   Kigali, Rwanda 🇷🇼
+university: University of Rwanda
+role:       Software Engineer (Student → Pro)
 
 passions:
-  - "🌐 Full-Stack Web Development"
-  - "🤖 AI/ML for Agriculture"
-  - "🔌 IoT & Embedded Systems"
-  - "🎨 3D Graphics & Immersive UX"
-  - "🌍 Digital Transformation in Africa"
+  - Full-Stack Web Development  🌐
+  - AI/ML for Agriculture       🤖
+  - IoT & Embedded Systems      🔌
+  - 3D Graphics & Immersive UX  🎨
+  - Digital Transformation 🌍
 
 currently_shipping:
-  Farmlytics:        "Agriculture insights & analytics"
-  KIM_Fashion_Finds: "E-commerce + Blog + Stock Management"
-  Kimelia_Luxe:      "3D Fashion Design Hub (React + Blender)"
-  Citizen_Platform:  "Civic tech empowering Rwanda"
+  - Farmlytics        → agri analytics platform
+  - KIM Fashion Finds → e-commerce + inventory
+  - Kimelia Luxe      → 3D fashion design hub
+  - Citizen Platform  → civic tech for Rwanda
+  - BeansAI           → crop AI predictions
 
 open_to:
-  - "Internships & Engineering Roles"
-  - "Open-source Collaboration"
-  - "Research: AI for Agriculture"
-  - "Hackathons & Buildathons"
-
-fun_fact: >
-  I turn coffee into scalable code ☕→💻
-  and Blender scenes into fashion runways 🎨
+  - Internships & Engineering Roles
+  - Open-Source Collaboration
+  - Hackathons & Research
+  
+fun_fact: "Coffee ☕ → Code 💻 → Impact 🌍"
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🛠️ &nbsp;`$ ls -la /skills`
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### ◈ Languages
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,bash&theme=dark&perline=8"/>
+**// Languages**
 
-### ◈ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,sass,threejs,figma&theme=dark&perline=8"/>
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=EA4335)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 
-### ◈ Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postgresql,mongodb,prisma,redis,graphql&theme=dark&perline=8"/>
+**// Frontend**
 
-### ◈ DevOps & Infrastructure
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,linux,nginx,vercel,vscode&theme=dark&perline=8"/>
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=three.js&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0d1117?style=for-the-badge&logo=greensock&logoColor=88CE02)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
-### ◈ AI & Embedded Systems
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,raspberrypi,arduino&theme=dark&perline=8"/>
+**// Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=FF4438)
+![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-0d1117?style=for-the-badge&logo=graphql&logoColor=E10098)
+
+**// DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GH_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=for-the-badge&logo=nginx&logoColor=009639)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+
+**// AI & Embedded**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
+![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00878A)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   FEATURED PROJECTS                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp;`$ git log --oneline --featured`
+## 🚀 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Aline-CROIRE/BeansAI">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aline-CROIRE&repo=BeansAI&theme=github_dark&hide_border=true&border_radius=12&title_color=58a6ff&icon_color=58a6ff"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aline-CROIRE&repo=BeansAI&theme=github_dark&hide_border=true&border_radius=12&title_color=58a6ff&icon_color=58a6ff&description_lines_count=2"/>
 </a>
 <a href="https://github.com/Aline-CROIRE/Farmlytics">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aline-CROIRE&repo=Farmlytics&theme=github_dark&hide_border=true&border_radius=12&title_color=58a6ff&icon_color=58a6ff"/>
@@ -139,139 +139,70 @@ fun_fact: >
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   WHAT I'M BUILDING NOW                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🎯 &nbsp;`$ ps aux | grep --currently-building`
+## 🎯 Currently Shipping
 
 <div align="center">
 
-| &nbsp; | Project | Stack | Status | Impact |
-|:------:|:--------|:------|:------:|:-------|
-| 🌾 | **Farmlytics** | React · Node.js · PostgreSQL · Chart.js | 🟡 `shipping` | Analytics dashboard for Rwandan smallholder farmers |
-| 👗 | **KIM Fashion Finds** | Next.js · MongoDB · Stripe · Cloudinary | 🟡 `shipping` | Fashion e-commerce + blog + smart inventory |
-| 💎 | **Kimelia Luxe** | React · Three.js · Blender · GSAP | 🟠 `building` | Immersive 3D luxury fashion design hub |
-| 🗳️ | **Citizen Platform** | React · Node.js · MongoDB · WebSocket | 🟡 `shipping` | Real-time civic engagement for Rwanda |
-| 🫘 | **BeansAI** | Python · TensorFlow · FastAPI · React | 🔵 `researching` | AI crop disease detection & yield prediction |
+| # | Project | Stack | Status | Mission |
+|:-:|:--------|:------|:------:|:--------|
+| 🌾 | **[Farmlytics](#)** | React · Node.js · PostgreSQL | 🟡 Shipping | Analytics for Rwandan smallholder farmers |
+| 👗 | **[KIM Fashion Finds](#)** | Next.js · MongoDB · Stripe | 🟡 Shipping | Fashion e-commerce + blog + smart inventory |
+| 💎 | **[Kimelia Luxe](#)** | React · Three.js · Blender | 🟠 Building | Immersive 3D luxury fashion design hub |
+| 🗳️ | **[Citizen Platform](#)** | React · Node.js · WebSocket | 🟡 Shipping | Real-time civic engagement for Rwanda |
+| 🫘 | **[BeansAI](#)** | Python · TensorFlow · FastAPI | 🔵 Research | AI crop disease detection & yield prediction |
+| 🏥 | **[Smart Thermometer](#)** | Embedded C · Raspberry Pi | ✅ Done | IoT health monitor + fingerprint biometrics |
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB ANALYTICS                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;`$ git stats --verbose`
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&title_color=58a6ff&icon_color=58a6ff&rank_icon=github&custom_title=Aline's+GitHub+Stats"/>
-<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-CROIRE&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=12&title_color=58a6ff&custom_title=Most+Used+Languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&title_color=58a6ff&icon_color=58a6ff&rank_icon=github&custom_title=Aline's+GitHub+Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-CROIRE&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=12&title_color=58a6ff&custom_title=Top+Languages"/>
 
-</div>
+<img width="67%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aline-CROIRE&theme=github-dark-blue&hide_border=true&border_radius=12&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff"/>
 
-<div align="center">
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=0a2a4a&hide_border=true&radius=12&custom_title=Aline's%20Contribution%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aline-CROIRE&theme=github-dark-blue&hide_border=true&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff"/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aline-CROIRE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
-</div>
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1a3a5c&hide_border=true&radius=12)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-profile-trophy.vercel.app/?username=Aline-CROIRE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 CONTRIBUTION SNAKE                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🐍 &nbsp;`$ watch --interval=86400 generate-snake --dark`
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/output/github-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/output/github-snake.svg"/>
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/output/github-snake.svg" width="100%"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/output/github-snake.svg" width="100%"/>
 </picture>
 
-*🐍 Eating commits, one square at a time — auto-generated nightly via GitHub Actions*
-
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  WAKATIME CODING STATS                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## ⏱️ &nbsp;`$ wakatime --stats --this-week`
-
-<!--START_SECTION:waka-->
-> 💡 **Set up WakaTime** to auto-display your live weekly coding breakdown here.
-> Add your `WAKATIME_API_KEY` secret and enable the [waka-readme action](https://github.com/athul/waka-readme).
-<!--END_SECTION:waka-->
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CONNECT WITH ME                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🌐 &nbsp;`$ curl --connect aline.dev/contact`
+## 🤝 Let's Connect & Build Together
 
 <div align="center">
 
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff"/>
-</a>
-<a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-<a href="mailto:niyocroirealine@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-<a href="https://your-resume-link.com">
-  <img src="https://img.shields.io/badge/📄_Resume-0d1117?style=for-the-badge&logo=googledrive&logoColor=4285F4"/>
-</a>
-<a href="https://github.com/Aline-CROIRE">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&label=🌐)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:niyocroirealine@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=googledrive&logoColor=4285F4)](https://your-resume-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aline-CROIRE)
+
+<br/>
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20engineers%20build%20systems%20that%20empower%20people.&author=Aline%20NIYONIZERA)
 
 </div>
 
 <br/>
 
-<div align="center">
-
-```bash
-$ echo "Thanks for visiting — let's build something great together 🚀"
-  Thanks for visiting — let's build something great together 🚀
-
-$ exit 0
-```
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20engineers%20don't%20just%20write%20code%20%E2%80%94%20they%20build%20systems%20that%20empower%20people.&author=Aline%20NIYONIZERA"/>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d2137,50:1a1f35,100:0d1117&height=120&section=footer"/>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:0d1117&height=120&section=footer"/>
