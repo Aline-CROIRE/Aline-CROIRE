@@ -12,7 +12,7 @@
 &nbsp;
 <a href="https://github.com/Aline-CROIRE?tab=followers"><img src="https://img.shields.io/github/followers/Aline-CROIRE?style=flat-square&color=0e75b6&logo=github&label=followers"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20To%20Work-2ea043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-✅-2ea043?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Kigali%2C%20Rwanda-🇷🇼-ff6b35?style=flat-square"/>
 
@@ -110,36 +110,113 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 
 ## Projects
 
+## Projects
+
 <div align="center">
 
-<a href="https://github.com/Aline-CROIRE/Invento">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aline-CROIRE&repo=Invento&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff"/>
-</a>
-<a href="https://github.com/Aline-CROIRE/KIM-Fashion-Finds">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aline-CROIRE&repo=KIM-Fashion-Finds&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff"/>
-</a>
-
-<a href="https://github.com/Aline-CROIRE/Citizen-Engagement">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aline-CROIRE&repo=Citizen-Engagement&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff"/>
-</a>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📦 Invento</h3>
+      <p align="center">
+        <a href="https://github.com/Aline-CROIRE/Invento">
+          <img src="https://img.shields.io/badge/View%20Repo-Invento-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Intelligent inventory management system with real-time profit tracking, smart restocking alerts, and business insights dashboard.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-insights-7c3aed?style=flat-square"/>
+      </p>
+      <p align="center"><b>Status:</b> 🟠 Building</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👗 KIM Fashion Finds</h3>
+      <p align="center">
+        <a href="https://github.com/Aline-CROIRE/KIM-Fashion-Finds">
+          <img src="https://img.shields.io/badge/View%20Repo-KIM%20Fashion-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">AI-powered fashion e-commerce platform with smart inventory, trend prediction, blog, and personalized recommendations.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-powered-7c3aed?style=flat-square"/>
+      </p>
+      <p align="center"><b>Status:</b> 🟡 Shipping</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💎 Kimelia Luxe</h3>
+      <p align="center">
+        <a href="https://github.com/Aline-CROIRE/Kimelia-Luxe">
+          <img src="https://img.shields.io/badge/View%20Repo-Kimelia%20Luxe-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Immersive 3D AI fashion design hub. Try on outfits virtually, generate styles with AI, and explore luxury collections in-browser.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-styling-7c3aed?style=flat-square"/>
+      </p>
+      <p align="center"><b>Status:</b> 🟠 Building</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🗳️ Citizen Platform</h3>
+      <p align="center">
+        <a href="https://github.com/Aline-CROIRE/Citizen-Engagement">
+          <img src="https://img.shields.io/badge/View%20Repo-Citizen%20Platform-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Real-time civic engagement platform for Rwanda. Citizens report issues, track resolutions, and connect with local government.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+      </p>
+      <p align="center"><b>Status:</b> 🟡 Shipping</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 Smart Thermometer</h3>
+      <p align="center">
+        <a href="https://github.com/Aline-CROIRE/Smart-Thermometer">
+          <img src="https://img.shields.io/badge/View%20Repo-Smart%20Thermometer-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">IoT medical device with fingerprint biometrics, automatic temperature logging, and patient identification via Raspberry Pi.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+        <img src="https://img.shields.io/badge/IoT-ff6b35?style=flat-square"/>
+      </p>
+      <p align="center"><b>Status:</b> ✅ Done</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Multi-vendor E-commerce</h3>
+      <p align="center">
+        <a href="https://github.com/Aline-CROIRE/Multi-Vendor">
+          <img src="https://img.shields.io/badge/View%20Repo-Multi%20Vendor-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
+      <p align="center">Full marketplace platform with multiple vendor dashboards, product listings, order management, and payment integration.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <p align="center"><b>Status:</b> ✅ Done</p>
+    </td>
+  </tr>
+</table>
 
 </div>
-
-<details>
-<summary><b>View all projects</b></summary>
-<br/>
-
-| Project | Description | Stack | Status |
-|:--------|:------------|:------|:------:|
-| **[Invento](https://github.com/Aline-CROIRE/INVENTO.git)** | Intelligent inventory + real profit tracking & insights | React · Node.js · PostgreSQL · AI |  Building |
-| **[KIM Fashion Finds](https://github.com/Aline-CROIRE/KIM-Fashion-Finds)** | AI-powered fashion e-commerce + blog + smart inventory | Next.js · MongoDB · Stripe |  Shipping |
-| **Kimelia Luxe** | 3D AI fashion design & styling hub | React · Three.js · Python | Building |
-| **[Citizen Platform](https://github.com/Aline-CROIRE/Citizen-Engagement)** | Rwandan civic engagement tool | React · Node.js · WebSocket | Shipping |
-| **Event Ticket System** | QR-coded booking & validation | Node.js · React · MongoDB |  Done |
-| **Multi-vendor E-commerce** | Full marketplace platform | React · Express · PostgreSQL |  Done |
-
-
-</details>
 
 ---
 
