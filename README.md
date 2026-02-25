@@ -185,7 +185,7 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 
 </table>
 </div>
----
+
 
 ## GitHub Stats
 
@@ -205,7 +205,7 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 
 <br/>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Aline-CROIRE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<img width="100%" src="https://github-trophies.vercel.app/?username=Aline-CROIRE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
