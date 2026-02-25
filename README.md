@@ -115,7 +115,7 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
   <!-- ROW 1 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 Invento</h3>
+      <h3>Invento</h3>
       <a href="https://github.com/Aline-CROIRE/Invento">
         <img width="100%" src="https://placehold.co/600x340/0d1117/58a6ff?text=Invento+—+Coming+Soon" alt="Invento"/>
       </a>
@@ -126,7 +126,7 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
     <td width="50%" valign="top">
       <h3>💎 Kimelia Luxe</h3>
       <a href="https://kimelia-lux.vercel.app/" target="_blank">
-        <img width="100%" src="https://api.microlink.io/?url=https://kimelia-lux.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Kimelia Luxe"/>
+        <img width="100%" src="https://api.microlink.io/?url=https://kimelia-lux.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitFor=4000" alt="Kimelia Luxe"/>
       </a>
       <p>Modern fashion platform with a virtual fitting room, AI-based style suggestions, and e-commerce tools for selling, stock, and revenue management.</p>
       <p><code>React</code> &nbsp;<code>JavaScript</code> &nbsp;<code>Styled-Components</code></p>
