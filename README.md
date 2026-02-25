@@ -12,7 +12,7 @@
 &nbsp;
 <a href="https://github.com/Aline-CROIRE?tab=followers"><img src="https://img.shields.io/github/followers/Aline-CROIRE?style=flat-square&color=0e75b6&logo=github&label=followers"/></a>
 &nbsp;
-<img src="https://img.shields.io/badge/Open%20To%20Work-✅-2ea043?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20To%20Work-2ea043?style=flat-square"/>
 &nbsp;
 <img src="https://img.shields.io/badge/Kigali%2C%20Rwanda-🇷🇼-ff6b35?style=flat-square"/>
 
@@ -27,11 +27,11 @@
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="girl coding on laptop"/>
 
 ```yaml
-name:        Aline NIYONIZERA
-location:    Kigali, Rwanda 🇷🇼
-university:  University of Rwanda
-degree:      Computer & Software Engineering
-goal:        Engineer → Innovator → Africa Tech Leader
+Name:        Aline NIYONIZERA
+Location:    Kigali, Rwanda 🇷🇼
+University:  University of Rwanda
+Degree:      Computer & Software Engineering
+Goal:        Engineer → Innovator → Africa Tech Leader
 
 passions:
   - Full-Stack Web Development
@@ -45,8 +45,6 @@ currently_building:
   - Invento           (Intelligent inventory + profit tracking)
   - KIM Fashion Finds (AI-powered fashion e-commerce)
   - Kimelia Luxe      (3D AI fashion design hub)
-  - Citizen Platform  (Civic tech for Rwanda)
-  - Smart Thermometer (IoT biometric device)
 
 open_to:
   - Internships & Junior Engineering Roles
@@ -124,9 +122,6 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 <a href="https://github.com/Aline-CROIRE/Citizen-Engagement">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aline-CROIRE&repo=Citizen-Engagement&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff"/>
 </a>
-<a href="https://github.com/Aline-CROIRE/Smart-Thermometer">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Aline-CROIRE&repo=Smart-Thermometer&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff"/>
-</a>
 
 </div>
 
@@ -136,13 +131,13 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:------:|
-| 📦 **[Invento](https://github.com/Aline-CROIRE/Invento)** | Intelligent inventory + real profit tracking & insights | React · Node.js · PostgreSQL · AI | 🟠 Building |
-| 👗 **[KIM Fashion Finds](https://github.com/Aline-CROIRE/KIM-Fashion-Finds)** | AI-powered fashion e-commerce + blog + smart inventory | Next.js · MongoDB · Stripe | 🟡 Shipping |
-| 💎 **Kimelia Luxe** | 3D AI fashion design & styling hub | React · Three.js · Python | 🟠 Building |
-| 🗳️ **[Citizen Platform](https://github.com/Aline-CROIRE/Citizen-Engagement)** | Rwandan civic engagement tool | React · Node.js · WebSocket | 🟡 Shipping |
-| 🎟️ **Event Ticket System** | QR-coded booking & validation | Node.js · React · MongoDB | ✅ Done |
-| 🛒 **Multi-vendor E-commerce** | Full marketplace platform | React · Express · PostgreSQL | ✅ Done |
-| 🏥 **[Smart Thermometer](https://github.com/Aline-CROIRE/Smart-Thermometer)** | IoT + fingerprint biometrics | Embedded C · Raspberry Pi | ✅ Done |
+| **[Invento](https://github.com/Aline-CROIRE/Invento)** | Intelligent inventory + real profit tracking & insights | React · Node.js · PostgreSQL · AI |  Building |
+| **[KIM Fashion Finds](https://github.com/Aline-CROIRE/KIM-Fashion-Finds)** | AI-powered fashion e-commerce + blog + smart inventory | Next.js · MongoDB · Stripe |  Shipping |
+| **Kimelia Luxe** | 3D AI fashion design & styling hub | React · Three.js · Python | Building |
+| **[Citizen Platform](https://github.com/Aline-CROIRE/Citizen-Engagement)** | Rwandan civic engagement tool | React · Node.js · WebSocket | Shipping |
+| **Event Ticket System** | QR-coded booking & validation | Node.js · React · MongoDB |  Done |
+| **Multi-vendor E-commerce** | Full marketplace platform | React · Express · PostgreSQL |  Done |
+
 
 </details>
 
@@ -190,17 +185,14 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 
 <div align="center">
 
-<a href="https://your-portfolio-link.com">
+<a href="https://my-brand-khaki.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff"/>
 </a>&nbsp;
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/aline-niyonizera-47615937a/">
   <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>&nbsp;
 <a href="mailto:niyocroirealine@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>&nbsp;
-<a href="https://your-resume-link.com">
-  <img src="https://img.shields.io/badge/Resume-0d1117?style=for-the-badge&logo=googledrive&logoColor=4285F4"/>
 </a>&nbsp;
 <a href="https://github.com/Aline-CROIRE">
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
