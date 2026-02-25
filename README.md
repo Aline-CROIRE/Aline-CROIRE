@@ -116,15 +116,16 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
   <tr>
     <td width="50%" valign="top">
       <h3>Invento</h3>
-      <a href="https://github.com/Aline-CROIRE/Invento">
-        <img width="100%" src="https://placehold.co/600x340/0d1117/58a6ff?text=Invento+—+Coming+Soon" alt="Invento"/>
+      <a href="https://invento-rouge.vercel.app/">
+        <img width="100%" src="https://api.microlink.io/?url=https://invento-rouge.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitFor=4000" alt="Invento"/>
       </a>
       <p>Intelligent inventory management system with real-time profit tracking, smart restocking alerts, and an insightful business analytics dashboard.</p>
       <p><code>React</code> &nbsp;<code>Node.js</code> &nbsp;<code>PostgreSQL</code> &nbsp;<code>AI</code></p>
-      <a href="https://github.com/Aline-CROIRE/Invento"><b>View Code</b></a>
+       <a href="https://github.com/Aline-CROIRE/Kimelia-Luxe"><b>View Code</b></a> &nbsp;·&nbsp;
+       <a href="https://kimelia-lux.vercel.app/"><b>Live Demo</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>💎 Kimelia Luxe</h3>
+      <h3>Kimelia Luxe</h3>
       <a href="https://kimelia-lux.vercel.app/" target="_blank">
         <img width="100%" src="https://api.microlink.io/?url=https://kimelia-lux.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitFor=4000" alt="Kimelia Luxe"/>
       </a>
@@ -147,7 +148,7 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
       <a href="https://github.com/Aline-CROIRE/SelfGrow"><b>View Code</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔀 SectorFlow</h3>
+      <h3>SectorFlow</h3>
       <a href="https://sector-flow.vercel.app/select-sector" target="_blank">
         <img width="100%" src="https://api.microlink.io/?url=https://sector-flow.vercel.app/select-sector&screenshot=true&meta=false&embed=screenshot.url" alt="SectorFlow"/>
       </a>
@@ -161,7 +162,7 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
   <!-- ROW 3 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🔧 Procurement System API</h3>
+      <h3>Procurement System API</h3>
       <a href="https://procurement-backend-1.onrender.com/api-docs/" target="_blank">
         <img width="100%" src="https://api.microlink.io/?url=https://procurement-backend-1.onrender.com/api-docs/&screenshot=true&meta=false&embed=screenshot.url" alt="Procurement API"/>
       </a>
@@ -171,7 +172,7 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
       <a href="https://procurement-backend-1.onrender.com/api-docs/"><b>Live Demo</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛍️ Botiga Shop</h3>
+      <h3> Botiga Shop</h3>
       <a href="https://botigashop2.netlify.app/" target="_blank">
         <img width="100%" src="https://api.microlink.io/?url=https://botigashop2.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Botiga"/>
       </a>
