@@ -131,7 +131,7 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:------:|
-| **[Invento](https://github.com/Aline-CROIRE/Invento)** | Intelligent inventory + real profit tracking & insights | React · Node.js · PostgreSQL · AI |  Building |
+| **[Invento](https://github.com/Aline-CROIRE/INVENTO.git)** | Intelligent inventory + real profit tracking & insights | React · Node.js · PostgreSQL · AI |  Building |
 | **[KIM Fashion Finds](https://github.com/Aline-CROIRE/KIM-Fashion-Finds)** | AI-powered fashion e-commerce + blog + smart inventory | Next.js · MongoDB · Stripe |  Shipping |
 | **Kimelia Luxe** | 3D AI fashion design & styling hub | React · Three.js · Python | Building |
 | **[Citizen Platform](https://github.com/Aline-CROIRE/Citizen-Engagement)** | Rwandan civic engagement tool | React · Node.js · WebSocket | Shipping |
