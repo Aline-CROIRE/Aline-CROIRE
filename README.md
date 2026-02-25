@@ -107,44 +107,31 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ---
-
 ## Projects
 
 <div align="center">
-
-<table border="0" cellpadding="10" cellspacing="10">
+<table border="0" cellpadding="12" cellspacing="0">
 
   <!-- ROW 1 -->
   <tr>
     <td width="50%" valign="top">
       <h3>📦 Invento</h3>
       <a href="https://github.com/Aline-CROIRE/Invento">
-        <img width="100%" src="https://placehold.co/600x300/0d1117/58a6ff?text=Invento+Preview" alt="Invento"/>
+        <img width="100%" src="https://placehold.co/600x340/0d1117/58a6ff?text=Invento+—+Coming+Soon" alt="Invento"/>
       </a>
       <p>Intelligent inventory management system with real-time profit tracking, smart restocking alerts, and an insightful business analytics dashboard.</p>
-      <p>
-        <code>React</code> &nbsp;<code>Node.js</code> &nbsp;<code>PostgreSQL</code> &nbsp;<code>AI</code>
-      </p>
-      <p>
-        <a href="https://github.com/Aline-CROIRE/Invento"><b>View Code</b></a>
-        &nbsp;·&nbsp;
-        <a href="https://your-invento-demo.com"><b>Live Demo</b></a>
-      </p>
+      <p><code>React</code> &nbsp;<code>Node.js</code> &nbsp;<code>PostgreSQL</code> &nbsp;<code>AI</code></p>
+      <a href="https://github.com/Aline-CROIRE/Invento"><b>View Code</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>💎 Kimelia Luxe</h3>
-      <a href="https://github.com/Aline-CROIRE/Kimelia-Luxe">
-        <img width="100%" src="https://placehold.co/600x300/0d1117/d2a8ff?text=Kimelia+Luxe+Preview" alt="Kimelia Luxe"/>
+      <a href="https://kimelia-lux.vercel.app/" target="_blank">
+        <img width="100%" src="https://api.microlink.io/?url=https://kimelia-lux.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Kimelia Luxe"/>
       </a>
       <p>Modern fashion platform with a virtual fitting room, AI-based style suggestions, and e-commerce tools for selling, stock, and revenue management.</p>
-      <p>
-        <code>React</code> &nbsp;<code>JavaScript</code> &nbsp;<code>Styled-Components</code>
-      </p>
-      <p>
-        <a href="https://github.com/Aline-CROIRE/Kimelia-Luxe"><b>View Code</b></a>
-        &nbsp;·&nbsp;
-        <a href="https://your-kimelia-demo.com"><b>Live Demo</b></a>
-      </p>
+      <p><code>React</code> &nbsp;<code>JavaScript</code> &nbsp;<code>Styled-Components</code></p>
+      <a href="https://github.com/Aline-CROIRE/Kimelia-Luxe"><b>View Code</b></a> &nbsp;·&nbsp;
+      <a href="https://kimelia-lux.vercel.app/"><b>Live Demo</b></a>
     </td>
   </tr>
 
@@ -153,30 +140,21 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
     <td width="50%" valign="top">
       <h3>🌱 SelfGrow</h3>
       <a href="https://github.com/Aline-CROIRE/SelfGrow">
-        <img width="100%" src="https://placehold.co/600x300/0d1117/7ee787?text=SelfGrow+Preview" alt="SelfGrow"/>
+        <img width="100%" src="https://raw.githubusercontent.com/Aline-CROIRE/SelfGrow/main/public/journal.png" alt="SelfGrow"/>
       </a>
       <p>Personal growth mobile app with authentication, journaling, goal tracking, and data persistence. Built with React Native and Expo.</p>
-      <p>
-        <code>React Native</code> &nbsp;<code>Expo</code> &nbsp;<code>PostgreSQL</code> &nbsp;<code>TypeScript</code>
-      </p>
-      <p>
-        <a href="https://github.com/Aline-CROIRE/SelfGrow"><b>View Code</b></a>
-      </p>
+      <p><code>React Native</code> &nbsp;<code>Expo</code> &nbsp;<code>PostgreSQL</code> &nbsp;<code>TypeScript</code></p>
+      <a href="https://github.com/Aline-CROIRE/SelfGrow"><b>View Code</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🔀 SectorFlow</h3>
-      <a href="https://github.com/Aline-CROIRE/SectorFlow">
-        <img width="100%" src="https://placehold.co/600x300/0d1117/58a6ff?text=SectorFlow+Preview" alt="SectorFlow"/>
+      <a href="https://sector-flow.vercel.app/select-sector" target="_blank">
+        <img width="100%" src="https://api.microlink.io/?url=https://sector-flow.vercel.app/select-sector&screenshot=true&meta=false&embed=screenshot.url" alt="SectorFlow"/>
       </a>
       <p>Dynamic business sector selection interface for a SaaS platform. Customizes the user experience based on industry with conditional UI logic.</p>
-      <p>
-        <code>React</code> &nbsp;<code>Vite</code> &nbsp;<code>JavaScript</code>
-      </p>
-      <p>
-        <a href="https://github.com/Aline-CROIRE/SectorFlow"><b>View Code</b></a>
-        &nbsp;·&nbsp;
-        <a href="https://your-sectorflow-demo.com"><b>Live Demo</b></a>
-      </p>
+      <p><code>React</code> &nbsp;<code>Vite</code> &nbsp;<code>JavaScript</code></p>
+      <a href="https://github.com/Aline-CROIRE/SectorFlow"><b>View Code</b></a> &nbsp;·&nbsp;
+      <a href="https://sector-flow.vercel.app/select-sector"><b>Live Demo</b></a>
     </td>
   </tr>
 
@@ -184,38 +162,27 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
   <tr>
     <td width="50%" valign="top">
       <h3>🔧 Procurement System API</h3>
-      <a href="https://github.com/Aline-CROIRE/Procurement-API">
-        <img width="100%" src="https://placehold.co/600x300/0d1117/ff7b72?text=Procurement+API+Preview" alt="Procurement API"/>
+      <a href="https://procurement-backend-1.onrender.com/api-docs/" target="_blank">
+        <img width="100%" src="https://api.microlink.io/?url=https://procurement-backend-1.onrender.com/api-docs/&screenshot=true&meta=false&embed=screenshot.url" alt="Procurement API"/>
       </a>
       <p>Robust backend API for procurement management with Swagger docs, authentication, user roles, and core procurement logic.</p>
-      <p>
-        <code>Node.js</code> &nbsp;<code>Express</code> &nbsp;<code>Swagger</code> &nbsp;<code>PostgreSQL</code>
-      </p>
-      <p>
-        <a href="https://github.com/Aline-CROIRE/Procurement-API"><b>View Code</b></a>
-        &nbsp;·&nbsp;
-        <a href="https://your-procurement-demo.com"><b>Live Demo</b></a>
-      </p>
+      <p><code>Node.js</code> &nbsp;<code>Express</code> &nbsp;<code>Swagger</code> &nbsp;<code>PostgreSQL</code></p>
+      <a href="https://github.com/Aline-CROIRE/Procurement-API"><b>View Code</b></a> &nbsp;·&nbsp;
+      <a href="https://procurement-backend-1.onrender.com/api-docs/"><b>Live Demo</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛍️ Botiga E-commerce</h3>
-      <a href="https://github.com/Aline-CROIRE/Botiga">
-        <img width="100%" src="https://placehold.co/600x300/0d1117/ffa657?text=Botiga+Preview" alt="Botiga"/>
+      <h3>🛍️ Botiga Shop</h3>
+      <a href="https://botigashop2.netlify.app/" target="_blank">
+        <img width="100%" src="https://api.microlink.io/?url=https://botigashop2.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Botiga"/>
       </a>
       <p>Feature-rich e-commerce front-end with product categories, search functionality, and a clean UI for a seamless shopping experience.</p>
-      <p>
-        <code>HTML</code> &nbsp;<code>CSS</code> &nbsp;<code>JavaScript</code> &nbsp;<code>React</code>
-      </p>
-      <p>
-        <a href="https://github.com/Aline-CROIRE/Botiga"><b>View Code</b></a>
-        &nbsp;·&nbsp;
-        <a href="https://your-botiga-demo.com"><b>Live Demo</b></a>
-      </p>
+      <p><code>HTML</code> &nbsp;<code>CSS</code> &nbsp;<code>JavaScript</code> &nbsp;<code>React</code></p>
+      <a href="https://github.com/Aline-CROIRE/Botiga"><b>View Code</b></a> &nbsp;·&nbsp;
+      <a href="https://botigashop2.netlify.app/"><b>Live Demo</b></a>
     </td>
   </tr>
 
 </table>
-
 </div>
 ---
 
