@@ -138,9 +138,9 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
   <!-- ROW 2 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>🌱 SelfGrow</h3>
-      <a href="https://github.com/Aline-CROIRE/SelfGrow">
-        <img width="100%" src="https://raw.githubusercontent.com/Aline-CROIRE/My_Brand/blob/main/public/journal.png)" alt="SelfGrow"/>
+      <h3>SelfGrowth</h3>
+      <a href="https://github.com/Aline-CROIRE/SelfGrowth">
+        <img width="100%" src="https://raw.githubusercontent.com/Aline-CROIRE/My_Brand/blob/main/public/journal.png" alt="SelfGrow"/>
       </a>
       <p>Personal growth mobile app with authentication, journaling, goal tracking, and data persistence. Built with React Native and Expo.</p>
       <p><code>React Native</code> &nbsp;<code>Expo</code> &nbsp;<code>PostgreSQL</code> &nbsp;<code>TypeScript</code></p>
