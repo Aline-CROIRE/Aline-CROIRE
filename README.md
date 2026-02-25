@@ -110,114 +110,113 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 
 ## Projects
 
-## Projects
-
 <div align="center">
 
-<table>
+<table border="0" cellpadding="10" cellspacing="10">
+
+  <!-- ROW 1 -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📦 Invento</h3>
-      <p align="center">
-        <a href="https://github.com/Aline-CROIRE/Invento">
-          <img src="https://img.shields.io/badge/View%20Repo-Invento-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
+      <h3>📦 Invento</h3>
+      <a href="https://github.com/Aline-CROIRE/Invento">
+        <img width="100%" src="https://placehold.co/600x300/0d1117/58a6ff?text=Invento+Preview" alt="Invento"/>
+      </a>
+      <p>Intelligent inventory management system with real-time profit tracking, smart restocking alerts, and an insightful business analytics dashboard.</p>
+      <p>
+        <code>React</code> &nbsp;<code>Node.js</code> &nbsp;<code>PostgreSQL</code> &nbsp;<code>AI</code>
       </p>
-      <p align="center">Intelligent inventory management system with real-time profit tracking, smart restocking alerts, and business insights dashboard.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI-insights-7c3aed?style=flat-square"/>
+      <p>
+        <a href="https://github.com/Aline-CROIRE/Invento"><b>View Code</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://your-invento-demo.com"><b>Live Demo</b></a>
       </p>
-      <p align="center"><b>Status:</b> 🟠 Building</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">👗 KIM Fashion Finds</h3>
-      <p align="center">
-        <a href="https://github.com/Aline-CROIRE/KIM-Fashion-Finds">
-          <img src="https://img.shields.io/badge/View%20Repo-KIM%20Fashion-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
+      <h3>💎 Kimelia Luxe</h3>
+      <a href="https://github.com/Aline-CROIRE/Kimelia-Luxe">
+        <img width="100%" src="https://placehold.co/600x300/0d1117/d2a8ff?text=Kimelia+Luxe+Preview" alt="Kimelia Luxe"/>
+      </a>
+      <p>Modern fashion platform with a virtual fitting room, AI-based style suggestions, and e-commerce tools for selling, stock, and revenue management.</p>
+      <p>
+        <code>React</code> &nbsp;<code>JavaScript</code> &nbsp;<code>Styled-Components</code>
       </p>
-      <p align="center">AI-powered fashion e-commerce platform with smart inventory, trend prediction, blog, and personalized recommendations.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI-powered-7c3aed?style=flat-square"/>
+      <p>
+        <a href="https://github.com/Aline-CROIRE/Kimelia-Luxe"><b>View Code</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://your-kimelia-demo.com"><b>Live Demo</b></a>
       </p>
-      <p align="center"><b>Status:</b> 🟡 Shipping</p>
     </td>
   </tr>
+
+  <!-- ROW 2 -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">💎 Kimelia Luxe</h3>
-      <p align="center">
-        <a href="https://github.com/Aline-CROIRE/Kimelia-Luxe">
-          <img src="https://img.shields.io/badge/View%20Repo-Kimelia%20Luxe-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
+      <h3>🌱 SelfGrow</h3>
+      <a href="https://github.com/Aline-CROIRE/SelfGrow">
+        <img width="100%" src="https://placehold.co/600x300/0d1117/7ee787?text=SelfGrow+Preview" alt="SelfGrow"/>
+      </a>
+      <p>Personal growth mobile app with authentication, journaling, goal tracking, and data persistence. Built with React Native and Expo.</p>
+      <p>
+        <code>React Native</code> &nbsp;<code>Expo</code> &nbsp;<code>PostgreSQL</code> &nbsp;<code>TypeScript</code>
       </p>
-      <p align="center">Immersive 3D AI fashion design hub. Try on outfits virtually, generate styles with AI, and explore luxury collections in-browser.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/AI-styling-7c3aed?style=flat-square"/>
+      <p>
+        <a href="https://github.com/Aline-CROIRE/SelfGrow"><b>View Code</b></a>
       </p>
-      <p align="center"><b>Status:</b> 🟠 Building</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🗳️ Citizen Platform</h3>
-      <p align="center">
-        <a href="https://github.com/Aline-CROIRE/Citizen-Engagement">
-          <img src="https://img.shields.io/badge/View%20Repo-Citizen%20Platform-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
+      <h3>🔀 SectorFlow</h3>
+      <a href="https://github.com/Aline-CROIRE/SectorFlow">
+        <img width="100%" src="https://placehold.co/600x300/0d1117/58a6ff?text=SectorFlow+Preview" alt="SectorFlow"/>
+      </a>
+      <p>Dynamic business sector selection interface for a SaaS platform. Customizes the user experience based on industry with conditional UI logic.</p>
+      <p>
+        <code>React</code> &nbsp;<code>Vite</code> &nbsp;<code>JavaScript</code>
       </p>
-      <p align="center">Real-time civic engagement platform for Rwanda. Citizens report issues, track resolutions, and connect with local government.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
+      <p>
+        <a href="https://github.com/Aline-CROIRE/SectorFlow"><b>View Code</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://your-sectorflow-demo.com"><b>Live Demo</b></a>
       </p>
-      <p align="center"><b>Status:</b> 🟡 Shipping</p>
     </td>
   </tr>
+
+  <!-- ROW 3 -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🏥 Smart Thermometer</h3>
-      <p align="center">
-        <a href="https://github.com/Aline-CROIRE/Smart-Thermometer">
-          <img src="https://img.shields.io/badge/View%20Repo-Smart%20Thermometer-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
+      <h3>🔧 Procurement System API</h3>
+      <a href="https://github.com/Aline-CROIRE/Procurement-API">
+        <img width="100%" src="https://placehold.co/600x300/0d1117/ff7b72?text=Procurement+API+Preview" alt="Procurement API"/>
+      </a>
+      <p>Robust backend API for procurement management with Swagger docs, authentication, user roles, and core procurement logic.</p>
+      <p>
+        <code>Node.js</code> &nbsp;<code>Express</code> &nbsp;<code>Swagger</code> &nbsp;<code>PostgreSQL</code>
       </p>
-      <p align="center">IoT medical device with fingerprint biometrics, automatic temperature logging, and patient identification via Raspberry Pi.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/IoT-ff6b35?style=flat-square"/>
+      <p>
+        <a href="https://github.com/Aline-CROIRE/Procurement-API"><b>View Code</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://your-procurement-demo.com"><b>Live Demo</b></a>
       </p>
-      <p align="center"><b>Status:</b> ✅ Done</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🛒 Multi-vendor E-commerce</h3>
-      <p align="center">
-        <a href="https://github.com/Aline-CROIRE/Multi-Vendor">
-          <img src="https://img.shields.io/badge/View%20Repo-Multi%20Vendor-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
-        </a>
+      <h3>🛍️ Botiga E-commerce</h3>
+      <a href="https://github.com/Aline-CROIRE/Botiga">
+        <img width="100%" src="https://placehold.co/600x300/0d1117/ffa657?text=Botiga+Preview" alt="Botiga"/>
+      </a>
+      <p>Feature-rich e-commerce front-end with product categories, search functionality, and a clean UI for a seamless shopping experience.</p>
+      <p>
+        <code>HTML</code> &nbsp;<code>CSS</code> &nbsp;<code>JavaScript</code> &nbsp;<code>React</code>
       </p>
-      <p align="center">Full marketplace platform with multiple vendor dashboards, product listings, order management, and payment integration.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+      <p>
+        <a href="https://github.com/Aline-CROIRE/Botiga"><b>View Code</b></a>
+        &nbsp;·&nbsp;
+        <a href="https://your-botiga-demo.com"><b>Live Demo</b></a>
       </p>
-      <p align="center"><b>Status:</b> ✅ Done</p>
     </td>
   </tr>
+
 </table>
 
 </div>
-
 ---
 
 ## GitHub Stats
