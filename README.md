@@ -193,7 +193,7 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aline-CROIRE&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff&rank_icon=github&custom_title=Aline's+GitHub+Stats"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-CROIRE&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&custom_title=Top+Languages"/>
+<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aline-CROIRE&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&custom_title=Top+Languages"/>
 
 <br/><br/>
 
