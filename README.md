@@ -1,3 +1,62 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,19,24&height=240&section=header&text=Aline%20NIYONIZERA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20·%20Full-Stack%20·%20AI%20·%20IoT%20·%20Rwanda%20🇷🇼&descAlignY=62&descSize=17&descColor=c9d1d9"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=40&lines=%24+whoami+%E2%86%92+Software+Engineer+%7C+Kigali%2C+Rwanda;%24+stack+%E2%86%92+React+%7C+Node.js+%7C+Python+%7C+AI+%7C+PostgreSQL;%24+building+%E2%86%92+Invento+%7C+KIM+Fashion+%7C+Kimelia+Luxe+%7C+IoT;%24+mission+%E2%86%92+Tech+that+transforms+Africa)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aline-CROIRE&style=flat-square&color=0e75b6&label=profile+views"/>
+&nbsp;
+<a href="https://github.com/Aline-CROIRE?tab=followers"><img src="https://img.shields.io/github/followers/Aline-CROIRE?style=flat-square&color=0e75b6&logo=github&label=followers"/></a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20To%20Work-✅-2ea043?style=flat-square"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Kigali%2C%20Rwanda-🇷🇼-ff6b35?style=flat-square"/>
+
+</div>
+
+<br/>
+
+---
+
+## About Me
+
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="girl coding on laptop"/>
+
+```yaml
+name:        Aline NIYONIZERA
+location:    Kigali, Rwanda 🇷🇼
+university:  University of Rwanda
+degree:      Computer & Software Engineering
+goal:        Engineer → Innovator → Africa Tech Leader
+
+passions:
+  - Full-Stack Web Development
+  - AI & Machine Learning
+  - AI in Fashion & E-commerce
+  - IoT & Embedded Systems
+  - 3D Graphics & Immersive UX
+  - Digital Transformation in Africa
+
+currently_building:
+  - Invento           (Intelligent inventory + profit tracking)
+  - KIM Fashion Finds (AI-powered fashion e-commerce)
+  - Kimelia Luxe      (3D AI fashion design hub)
+  - Citizen Platform  (Civic tech for Rwanda)
+  - Smart Thermometer (IoT biometric device)
+
+open_to:
+  - Internships & Junior Engineering Roles
+  - Open-Source Collaboration
+  - Research: AI for Fashion & Retail
+  - Hackathons & Buildathons
+
+fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
+```
+
 <br clear="right"/>
 
 ---
