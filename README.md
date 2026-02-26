@@ -210,8 +210,7 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 
 <br/>
 
-<img width="100%" src="https://github-trophies.vercel.app/?username=Aline-CROIRE&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7"/>
-
+<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=Aline_Croire&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff&custom_title=Weekly+Coding+Activity&layout=compact"/>
 </div>
 
 ---
