@@ -201,6 +201,11 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 
 <br/><br/>
 
+<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aline_Croire&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff&custom_title=Weekly+Coding+Activity&layout=compact"/>
+
+
+<br/><br/>
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f3a5c&hide_border=true&radius=10&custom_title=Contribution%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
