@@ -49,7 +49,7 @@ currently_building:
 
 currently_learning:
   - Flutter & Dart (cross-platform mobile)
-  - LangChain · RAG pipelines
+  - LangChain & RAG pipelines
   - AI agents for fashion retail
 
 languages:
@@ -73,7 +73,6 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 ## 🔥 Currently Building
 
 <div align="center">
-
 <table border="0" cellpadding="16" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="33%">
@@ -99,7 +98,6 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
@@ -167,7 +165,6 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 <div align="center">
 <table border="0" cellpadding="12" cellspacing="0">
 
-  <!-- ROW 1 -->
   <tr>
     <td width="50%" valign="top">
       <h3>📦 Invento</h3>
@@ -191,7 +188,6 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
     </td>
   </tr>
 
-  <!-- ROW 2 -->
   <tr>
     <td width="50%" valign="top">
       <h3>🌱 SelfGrow</h3>
@@ -214,7 +210,6 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
     </td>
   </tr>
 
-  <!-- ROW 3 -->
   <tr>
     <td width="50%" valign="top">
       <h3>🔧 Procurement System API</h3>
@@ -254,10 +249,6 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 <br/><br/>
 
 <img width="65%" src="https://streak-stats.demolab.com?user=Aline-CROIRE&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e"/>
-
-<br/><br/>
-
-<img width="75%" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=Aline_Croire&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff&custom_title=Weekly+Coding+Activity&layout=compact&langs_count=6"/>
 
 <br/><br/>
 
