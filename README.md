@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,19,24&height=240&section=header&text=Aline%20NIYONIZERA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20·%20Full-Stack%20·%20AI%20·%20IoT%20·%20Rwanda%20🇷🇼&descAlignY=62&descSize=17&descColor=c9d1d9"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,19,24&height=240&section=header&text=Aline%20NIYONIZERA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20·%20Full-Stack%20·%20AI%20·%20Mobile%20·%20Rwanda%20🇷🇼&descAlignY=62&descSize=17&descColor=c9d1d9"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=40&lines=%24+whoami+%E2%86%92+Software+Engineer+%7C+Kigali%2C+Rwanda;%24+stack+%E2%86%92+React+%7C+Node.js+%7C+Python+%7C+AI+%7C+PostgreSQL;%24+building+%E2%86%92+Invento+%7C+KIM+Fashion+%7C+Kimelia+Luxe+%7C+IoT;%24+mission+%E2%86%92+Tech+that+transforms+Africa)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=40&lines=%24+whoami+%E2%86%92+Software+Engineer+%7C+Kigali%2C+Rwanda;%24+stack+%E2%86%92+React+%7C+Flutter+%7C+Node.js+%7C+Python+%7C+AI;%24+building+%E2%86%92+Invento+%7C+Kimelia+Luxe+%7C+KIM+Fashion;%24+mobile+%E2%86%92+Flutter+%7C+Dart+%7C+React+Native;%24+mission+%E2%86%92+Tech+that+transforms+Africa)](https://git.io/typing-svg)
 
 <br/>
 
@@ -35,6 +35,7 @@ Goal:        Engineer → Innovator → Africa Tech Leader
 
 passions:
   - Full-Stack Web Development
+  - Mobile Development (Flutter & React Native)
   - AI & Machine Learning
   - AI in Fashion & E-commerce
   - IoT & Embedded Systems
@@ -46,9 +47,15 @@ currently_building:
   - KIM Fashion Finds (AI-powered fashion e-commerce)
   - Kimelia Luxe      (3D AI fashion design hub)
 
-currently_learning: "LangChain · RAG pipelines · AI agents for fashion retail"
+currently_learning:
+  - Flutter & Dart (cross-platform mobile)
+  - LangChain · RAG pipelines
+  - AI agents for fashion retail
 
-languages: "Kinyarwanda (native) · French (fluent) · English (fluent)"
+languages:
+  - Kinyarwanda (native)
+  - French (fluent)
+  - English (fluent)
 
 open_to:
   - Internships & Junior Engineering Roles
@@ -63,6 +70,40 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 
 ---
 
+## 🔥 Currently Building
+
+<div align="center">
+
+<table border="0" cellpadding="16" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-ff7b54?style=for-the-badge&labelColor=0d1117"/>
+      <h3>📦 Invento</h3>
+      <p>Intelligent inventory system with real-time profit tracking, AI-powered restocking predictions, and a full business insights dashboard</p>
+      <p><code>React</code> · <code>Node.js</code> · <code>PostgreSQL</code> · <code>AI</code></p>
+      <a href="https://invento-rouge.vercel.app/"><b>→ Live Demo</b></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/STATUS-IN%20PROGRESS-ff7b54?style=for-the-badge&labelColor=0d1117"/>
+      <h3>💎 Kimelia Luxe</h3>
+      <p>Fashion platform with virtual fitting room, AI style suggestions, and full e-commerce tools for selling, stock and revenue management</p>
+      <p><code>React</code> · <code>Styled-Components</code> · <code>AI</code></p>
+      <a href="https://kimelia-lux.vercel.app/"><b>→ Live Demo</b></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/STATUS-LEARNING-58a6ff?style=for-the-badge&labelColor=0d1117"/>
+      <h3>📱 Flutter Mobile</h3>
+      <p>Expanding into cross-platform mobile development with Flutter and Dart — building production-ready apps for Android and iOS</p>
+      <p><code>Flutter</code> · <code>Dart</code> · <code>Firebase</code></p>
+      <a href="https://github.com/Aline-CROIRE"><b>→ Follow Progress</b></a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## Tech Stack
 
 **Languages**
@@ -70,6 +111,7 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
@@ -79,10 +121,18 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 **Backend & Databases**
 
@@ -212,6 +262,18 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 <br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f3a5c&hide_border=true&radius=10&custom_title=Contribution%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aline-CROIRE&theme=github_dark" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aline-CROIRE&theme=github_dark" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aline-CROIRE&theme=github_dark" width="32%"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aline-CROIRE&theme=github_dark&utcOffset=2" width="32%"/>
 
 </div>
 
