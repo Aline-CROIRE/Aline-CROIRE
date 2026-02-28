@@ -1,60 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,19,24&height=240&section=header&text=Aline%20NIYONIZERA&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20·%20Full-Stack%20·%20AI%20·%20IoT%20·%20Rwanda%20🇷🇼&descAlignY=62&descSize=17&descColor=c9d1d9"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=720&height=40&lines=%24+whoami+%E2%86%92+Software+Engineer+%7C+Kigali%2C+Rwanda;%24+stack+%E2%86%92+React+%7C+Node.js+%7C+Python+%7C+AI+%7C+PostgreSQL;%24+building+%E2%86%92+Invento+%7C+KIM+Fashion+%7C+Kimelia+Luxe+%7C+IoT;%24+mission+%E2%86%92+Tech+that+transforms+Africa)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Aline-CROIRE&style=flat-square&color=0e75b6&label=profile+views"/>
-&nbsp;
-<a href="https://github.com/Aline-CROIRE?tab=followers"><img src="https://img.shields.io/github/followers/Aline-CROIRE?style=flat-square&color=0e75b6&logo=github&label=followers"/></a>
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To%20Work-✅-2ea043?style=flat-square"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Kigali%2C%20Rwanda-🇷🇼-ff6b35?style=flat-square"/>
-
-</div>
-
-<br/>
-
----
-
-## About Me
-
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="girl coding on laptop"/>
-
-```yaml
-Name:        Aline NIYONIZERA
-Location:    Kigali, Rwanda 🇷🇼
-University:  University of Rwanda
-Degree:      Computer & Software Engineering
-Goal:        Engineer → Innovator → Africa Tech Leader
-
-passions:
-  - Full-Stack Web Development
-  - AI & Machine Learning
-  - AI in Fashion & E-commerce
-  - IoT & Embedded Systems
-  - 3D Graphics & Immersive UX
-  - Digital Transformation in Africa
-
-currently_building:
-  - Invento           (Intelligent inventory + profit tracking)
-  - KIM Fashion Finds (AI-powered fashion e-commerce)
-  - Kimelia Luxe      (3D AI fashion design hub)
-
-open_to:
-  - Internships & Junior Engineering Roles
-  - Open-Source Collaboration
-  - Research: AI for Fashion & Retail
-  - Hackathons & Buildathons
-
-fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
-```
-
 <br clear="right"/>
 
 ---
@@ -107,6 +50,7 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
 ---
+
 ## Projects
 
 <div align="center">
@@ -115,17 +59,17 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
   <!-- ROW 1 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>Invento</h3>
-      <a href="https://invento-rouge.vercel.app/">
+      <h3>📦 Invento</h3>
+      <a href="https://invento-rouge.vercel.app/" target="_blank">
         <img width="100%" src="https://api.microlink.io/?url=https://invento-rouge.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitFor=4000" alt="Invento"/>
       </a>
       <p>Intelligent inventory management system with real-time profit tracking, smart restocking alerts, and an insightful business analytics dashboard.</p>
       <p><code>React</code> &nbsp;<code>Node.js</code> &nbsp;<code>PostgreSQL</code> &nbsp;<code>AI</code></p>
-       <a href="https://github.com/Aline-CROIRE/Kimelia-Luxe"><b>View Code</b></a> &nbsp;·&nbsp;
-       <a href="https://kimelia-lux.vercel.app/"><b>Live Demo</b></a>
+      <a href="https://github.com/Aline-CROIRE/Invento"><b>View Code</b></a> &nbsp;·&nbsp;
+      <a href="https://invento-rouge.vercel.app/"><b>Live Demo</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>Kimelia Luxe</h3>
+      <h3>💎 Kimelia Luxe</h3>
       <a href="https://kimelia-lux.vercel.app/" target="_blank">
         <img width="100%" src="https://api.microlink.io/?url=https://kimelia-lux.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitFor=4000" alt="Kimelia Luxe"/>
       </a>
@@ -139,18 +83,18 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
   <!-- ROW 2 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>SelfGrowth</h3>
-      <a href="https://github.com/Aline-CROIRE/SelfGrowth_App">
+      <h3>🌱 SelfGrow</h3>
+      <a href="https://github.com/Aline-CROIRE/SelfGrowth_App" target="_blank">
         <img width="100%" src="https://raw.githubusercontent.com/Aline-CROIRE/My_Brand/main/public/journal.png" alt="SelfGrow"/>
       </a>
       <p>Personal growth mobile app with authentication, journaling, goal tracking, and data persistence. Built with React Native and Expo.</p>
       <p><code>React Native</code> &nbsp;<code>Expo</code> &nbsp;<code>PostgreSQL</code> &nbsp;<code>TypeScript</code></p>
-      <a href="https://github.com/Aline-CROIRE/SelfGrow"><b>View Code</b></a>
+      <a href="https://github.com/Aline-CROIRE/SelfGrowth_App"><b>View Code</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>SectorFlow</h3>
+      <h3>🔀 SectorFlow</h3>
       <a href="https://sector-flow.vercel.app/select-sector" target="_blank">
-        <img width="100%" src="https://api.microlink.io/?url=https://sector-flow.vercel.app/select-sector&screenshot=true&meta=false&embed=screenshot.url" alt="SectorFlow"/>
+        <img width="100%" src="https://api.microlink.io/?url=https://sector-flow.vercel.app/select-sector&screenshot=true&meta=false&embed=screenshot.url&waitFor=3000" alt="SectorFlow"/>
       </a>
       <p>Dynamic business sector selection interface for a SaaS platform. Customizes the user experience based on industry with conditional UI logic.</p>
       <p><code>React</code> &nbsp;<code>Vite</code> &nbsp;<code>JavaScript</code></p>
@@ -162,9 +106,9 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
   <!-- ROW 3 -->
   <tr>
     <td width="50%" valign="top">
-      <h3>Procurement System API</h3>
+      <h3>🔧 Procurement System API</h3>
       <a href="https://procurement-backend-1.onrender.com/api-docs/" target="_blank">
-        <img width="100%" src="https://api.microlink.io/?url=https://procurement-backend-1.onrender.com/api-docs/&screenshot=true&meta=false&embed=screenshot.url" alt="Procurement API"/>
+        <img width="100%" src="https://api.microlink.io/?url=https://procurement-backend-1.onrender.com/api-docs/&screenshot=true&meta=false&embed=screenshot.url&waitFor=6000" alt="Procurement API"/>
       </a>
       <p>Robust backend API for procurement management with Swagger docs, authentication, user roles, and core procurement logic.</p>
       <p><code>Node.js</code> &nbsp;<code>Express</code> &nbsp;<code>Swagger</code> &nbsp;<code>PostgreSQL</code></p>
@@ -172,9 +116,9 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
       <a href="https://procurement-backend-1.onrender.com/api-docs/"><b>Live Demo</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3> Botiga Shop</h3>
+      <h3>🛍️ Botiga Shop</h3>
       <a href="https://botigashop2.netlify.app/" target="_blank">
-        <img width="100%" src="https://api.microlink.io/?url=https://botigashop2.netlify.app/&screenshot=true&meta=false&embed=screenshot.url" alt="Botiga"/>
+        <img width="100%" src="https://api.microlink.io/?url=https://botigashop2.netlify.app/&screenshot=true&meta=false&embed=screenshot.url&waitFor=3000" alt="Botiga"/>
       </a>
       <p>Feature-rich e-commerce front-end with product categories, search functionality, and a clean UI for a seamless shopping experience.</p>
       <p><code>HTML</code> &nbsp;<code>CSS</code> &nbsp;<code>JavaScript</code> &nbsp;<code>React</code></p>
@@ -186,6 +130,7 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 </table>
 </div>
 
+---
 
 ## GitHub Stats
 
@@ -197,20 +142,16 @@ fun_fact: "☕ Coffee → 💻 Code → 🌍 Impact"
 
 <br/><br/>
 
-<img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aline-CROIRE&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=Aline-CROIRE&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Aline_Croire&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff&custom_title=Weekly+Coding+Activity&layout=compact"/>
-
+<img width="75%" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=Aline_Croire&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff&custom_title=Weekly+Coding+Activity&layout=compact&langs_count=6"/>
 
 <br/><br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f3a5c&hide_border=true&radius=10&custom_title=Contribution%20Timeline)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br/>
-
-<img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api/wakatime?username=Aline_Croire&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff&custom_title=Weekly+Coding+Activity&layout=compact"/>
 </div>
 
 ---
