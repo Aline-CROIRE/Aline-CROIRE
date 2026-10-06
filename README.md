@@ -22,7 +22,7 @@
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=3FB950&vCenter=true&repeat=true&width=760&height=36&lines=Hi%2C+I%27m+Aline.+Software+Engineer+from+Kigali%2C+Rwanda.;Apprentice+at+AmaliTech%2C+2026+%E2%80%93+present.;Turning+real-world+problems+into+working+software." alt="Typing animation introducing Aline" />
 
 <p align="center">
-  <img src="./desk.svg" alt="Illustration of a developer typing at a desk with a monitor, keyboard and mouse" width="100%" />
+  <img src="desk.svg" alt="Illustration of a developer typing at a desk with a monitor, keyboard and mouse" width="100%" />
 </p>
 
 ```python
