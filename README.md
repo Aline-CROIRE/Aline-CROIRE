@@ -21,24 +21,33 @@
 
 Hi, I'm **Aline**, a Software Engineer from Kigali, Rwanda.
 
-I study Computer & Software Engineering at the University of Rwanda and I'm currently an apprentice at **AmaliTech**, where I'm building professional depth in **Python backend engineering** and **AI application development**.
-
-What pulls me into software is the moment a real-world problem becomes something that works: an API that responds, a database that holds up, an interface people can actually use, a system that learns from data. I've built full-stack products and entrepreneurial projects along the way, and now I'm sharpening the engineering underneath them.
+I'm drawn to the moment a real-world problem becomes something that works: an API that responds, a database that holds up, an interface people can actually use, a system that learns from data.
 
 <br />
 
 > [!NOTE]
-> **At a glance**
+> **Education**
 >
-> **Based in** &nbsp; Kigali, Rwanda
+> Computer & Software Engineering at the University of Rwanda.
+
+> [!TIP]
+> **Right now**
 >
-> **Studying** &nbsp; Computer & Software Engineering, University of Rwanda
+> Apprentice at **AmaliTech** (2026 – present), building professional depth in Python backend engineering and AI application development.
+
+> [!IMPORTANT]
+> **Direction**
 >
-> **Currently** &nbsp; Apprentice at AmaliTech, Python Backend Engineering & AI Application Development (2026 – present)
->
-> **Direction** &nbsp; Backend engineering · AI applications · Full-stack development
->
-> **Interested in** &nbsp; Software architecture · data and intelligent systems · technology entrepreneurship · African technology innovation
+> Backend engineering and AI applications, while continuing to build full-stack products. My entrepreneurial projects taught me to ship; now I'm sharpening the engineering underneath them.
+
+<br />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Architecture-58a6ff?style=flat-square" alt="Software Architecture" />
+  <img src="https://img.shields.io/badge/Data_%26_Intelligent_Systems-a371f7?style=flat-square" alt="Data and Intelligent Systems" />
+  <img src="https://img.shields.io/badge/Technology_Entrepreneurship-3fb950?style=flat-square" alt="Technology Entrepreneurship" />
+  <img src="https://img.shields.io/badge/African_Technology_Innovation-f0883e?style=flat-square" alt="African Technology Innovation" />
+</p>
 
 <br />
 
