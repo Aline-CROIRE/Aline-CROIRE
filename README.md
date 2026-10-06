@@ -21,6 +21,10 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=3FB950&vCenter=true&repeat=true&width=760&height=36&lines=Hi%2C+I%27m+Aline.+Software+Engineer+from+Kigali%2C+Rwanda.;Apprentice+at+AmaliTech%2C+2026+%E2%80%93+present.;Turning+real-world+problems+into+working+software." alt="Typing animation introducing Aline" />
 
+<p align="center">
+  <img src="./assets/desk.svg" alt="Illustration of a developer typing at a desk with a monitor, keyboard and mouse" width="100%" />
+</p>
+
 ```python
 aline = {
     "name": "Aline NIYONIZERA",
@@ -48,27 +52,30 @@ I'm drawn to the moment a real-world problem becomes something that works: an AP
 
 ## Current Focus
 
-```python
-class CurrentFocus:
-    backend = [
-        "Python Backend Engineering",
-        "REST API Development",
-        "Databases",
-        "Software Architecture",
-    ]
-    ai = ["AI Application Development", "Machine Learning"]
-    quality = ["Software Testing"]
-    reach = ["Full-Stack Development"]
+I'm strengthening the foundations professional engineering rests on.
 
+**Backend and architecture**
+- Python backend engineering
+- REST API development
+- Databases and software architecture
 
-def engineer(problem):
-    solution = design(understand(problem))
-    build(solution)
-    test(solution)
-    return improve(solution)
+**AI and intelligent systems**
+- AI application development
+- Machine learning
+
+**Quality and reach**
+- Software testing
+- Full-stack development, so what I build works end to end
+
+<br />
+
+The engineer I'm working toward is one who can understand a problem, design a solution, build it, test it, and keep improving it.
+
+```mermaid
+flowchart LR
+    A[Understand] --> B[Design] --> C[Build] --> D[Test] --> E[Improve]
+    E -.-> A
 ```
-
-The engineer I'm working toward can understand a problem, design a solution, build it, test it, and keep improving it.
 
 ---
 
@@ -116,19 +123,17 @@ Source: see my [GitHub profile](https://github.com/Aline-CROIRE)
 
 ## Technology
 
-```python
-# The ecosystem I work with, not a list of specialities.
-# Depth is currently being built around Python backend and AI applications.
-stack = {
-    "languages": ["Python", "Java", "JavaScript", "TypeScript", "Dart", "C"],
-    "backend": ["FastAPI", "Node.js", "Express", "Spring Boot"],
-    "frontend": ["React", "Next.js", "HTML5", "CSS3"],
-    "mobile": ["Flutter", "React Native", "Expo", "Firebase"],
-    "data_and_infra": ["PostgreSQL", "MongoDB", "Redis", "RabbitMQ", "Docker", "Nginx", "Linux"],
-    "ai_ml": ["PyTorch", "TensorFlow", "OpenCV", "Hugging Face"],
-    "tools": ["Git", "GitHub", "VS Code", "Figma"],
-}
-```
+The ecosystem I work with. Depth is currently being built around Python backend and AI application development.
+
+| | |
+|:--|:--|
+| **Languages** | `Python` `Java` `JavaScript` `TypeScript` `Dart` `C` |
+| **Backend** | `FastAPI` `Node.js` `Express` `Spring Boot` |
+| **Frontend** | `React` `Next.js` `HTML5` `CSS3` |
+| **Mobile** | `Flutter` `React Native` `Expo` `Firebase` |
+| **Data & Infrastructure** | `PostgreSQL` `MongoDB` `Redis` `RabbitMQ` `Docker` `Nginx` `Linux` |
+| **AI / ML** | `PyTorch` `TensorFlow` `OpenCV` `Hugging Face` |
+| **Tools** | `Git` `GitHub` `VS Code` `Figma` |
 
 ---
 
@@ -163,15 +168,7 @@ Earlier projects that shaped how I build.
 
 ## What I Am Building Toward
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=A371F7&vCenter=true&repeat=true&width=760&height=36&lines=Depth+in+Python+backends+and+AI+applications.;Real+products+for+Rwanda+and+across+Africa.;Keep+learning.+Keep+building.+Keep+improving." alt="Typing animation about future direction" />
-
-```python
-next_chapter = {
-    "depth": "Python backends and AI-powered applications",
-    "impact": "Problems that matter in Rwanda and across Africa",
-    "habits": ["ship real products", "learn in public", "raise the standard"],
-}
-```
+Engineering depth in Python backends and AI-powered applications, applied to problems that matter in Rwanda and across Africa. I want to keep shipping real products, keep learning in public, and keep raising the standard of what I build.
 
 ---
 
