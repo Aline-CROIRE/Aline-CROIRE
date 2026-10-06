@@ -32,6 +32,7 @@ aline = {
     "based_in": "Kigali, Rwanda",
     "education": "Computer & Software Engineering, University of Rwanda",
     "currently": "Apprentice at AmaliTech (2026 - present)",
+    "company": "Kimelia Soft (owner)",
     "direction": [
         "Backend Engineering",
         "AI Application Development",
@@ -46,7 +47,7 @@ aline = {
 }
 ```
 
-I'm drawn to the moment a real-world problem becomes something that works: an API that responds, a database that holds up, an interface people can actually use, a system that learns from data. My entrepreneurial projects taught me to ship; at AmaliTech I'm sharpening the engineering underneath them.
+I'm drawn to the moment a real-world problem becomes something that works: an API that responds, a database that holds up, an interface people can actually use, a system that learns from data. I also run Kimelia Soft, the company behind Kimelia Luxe, which I designed. Building my own products taught me to ship; at AmaliTech I'm sharpening the engineering underneath them.
 
 ---
 
