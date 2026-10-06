@@ -7,33 +7,69 @@
 </p>
 
 <p align="center">
-  <a href="https://my-brand-khaki.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/aline-niyonizera-47615937/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:niyocroirealine@gmail.com">Email</a>
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#current-focus">Focus</a> &nbsp;·&nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#technology">Technology</a> &nbsp;·&nbsp;
+  <a href="#github-activity">Activity</a> &nbsp;·&nbsp;
+  <a href="#connect">Connect</a>
 </p>
 
----
+<br />
 
 ## About
 
-I'm a Software Engineer based in Kigali, Rwanda, studying Computer & Software Engineering at the University of Rwanda and currently developing my professional skills through the **AmaliTech Apprenticeship Programme**.
+Hi, I'm **Aline**, a Software Engineer from Kigali, Rwanda.
 
-I like turning real-world problems into working software, whether that means designing an API, shaping a database, building a user-facing application, or exploring where intelligent systems can help. My work so far spans full-stack products and entrepreneurial projects, and I'm now putting deliberate effort into backend engineering and applied AI.
+I study Computer & Software Engineering at the University of Rwanda and I'm currently an apprentice at **AmaliTech**, where I'm building professional depth in **Python backend engineering** and **AI application development**.
 
-**Currently**: Apprentice, Python Backend Engineering & AI Application Development at AmaliTech, Kigali (2026 – present)
+What pulls me into software is the moment a real-world problem becomes something that works: an API that responds, a database that holds up, an interface people can actually use, a system that learns from data. I've built full-stack products and entrepreneurial projects along the way, and now I'm sharpening the engineering underneath them.
+
+<br />
+
+> [!NOTE]
+> **At a glance**
+>
+> **Based in** &nbsp; Kigali, Rwanda
+>
+> **Studying** &nbsp; Computer & Software Engineering, University of Rwanda
+>
+> **Currently** &nbsp; Apprentice at AmaliTech, Python Backend Engineering & AI Application Development (2026 – present)
+>
+> **Direction** &nbsp; Backend engineering · AI applications · Full-stack development
+>
+> **Interested in** &nbsp; Software architecture · data and intelligent systems · technology entrepreneurship · African technology innovation
+
+<br />
 
 ---
 
 ## Current Focus
 
-I'm strengthening the foundations that professional engineering rests on:
+I'm strengthening the foundations professional engineering rests on.
 
-- **Python backend engineering** and **REST API development**
-- **AI application development** and **machine learning**
-- **Software testing**, **databases**, and **software architecture**
-- **Full-stack development**, so the systems I build work end to end
+**Backend and architecture**
+- Python backend engineering
+- REST API development
+- Databases and software architecture
 
-The kind of engineer I'm working toward: someone who can understand a problem, design a solution, build it, test it, and keep improving it.
+**AI and intelligent systems**
+- AI application development
+- Machine learning
+
+**Quality and reach**
+- Software testing
+- Full-stack development, so what I build works end to end
+
+<br />
+
+The engineer I'm working toward is one who can understand a problem, design a solution, build it, test it, and keep improving it.
+
+```mermaid
+flowchart LR
+    A[Understand] --> B[Design] --> C[Build] --> D[Test] --> E[Improve]
+    E -.-> A
+```
 
 ---
 
@@ -83,19 +119,15 @@ Source: see my [GitHub profile](https://github.com/Aline-CROIRE)
 
 The ecosystem I work with. Depth is currently being built around Python backend and AI application development.
 
-**Languages** &nbsp; Python · Java · JavaScript · TypeScript · Dart · C
-
-**Backend** &nbsp; FastAPI · Node.js · Express · Spring Boot
-
-**Frontend** &nbsp; React · Next.js · HTML5 · CSS3
-
-**Mobile** &nbsp; Flutter · React Native · Expo · Firebase
-
-**Data & Infrastructure** &nbsp; PostgreSQL · MongoDB · Redis · RabbitMQ · Docker · Nginx · Linux
-
-**AI / ML** &nbsp; PyTorch · TensorFlow · OpenCV · Hugging Face
-
-**Tools** &nbsp; Git · GitHub · VS Code · Figma
+| | |
+|:--|:--|
+| **Languages** | `Python` `Java` `JavaScript` `TypeScript` `Dart` `C` |
+| **Backend** | `FastAPI` `Node.js` `Express` `Spring Boot` |
+| **Frontend** | `React` `Next.js` `HTML5` `CSS3` |
+| **Mobile** | `Flutter` `React Native` `Expo` `Firebase` |
+| **Data & Infrastructure** | `PostgreSQL` `MongoDB` `Redis` `RabbitMQ` `Docker` `Nginx` `Linux` |
+| **AI / ML** | `PyTorch` `TensorFlow` `OpenCV` `Hugging Face` |
+| **Tools** | `Git` `GitHub` `VS Code` `Figma` |
 
 ---
 
@@ -103,10 +135,10 @@ The ecosystem I work with. Depth is currently being built around Python backend 
 
 Earlier projects that shaped how I build.
 
-- **[Procurement System API](https://github.com/Aline-CROIRE/Procurement-API)**: Backend API for procurement management with authentication, roles, business logic, and interactive documentation. Node.js, Express, PostgreSQL, Swagger. [API Docs](https://procurement-backend-1.onrender.com/api-docs/)
-- **[SelfGrowth App](https://github.com/Aline-CROIRE/SelfGrowth_App)**: Mobile app for personal growth, journaling, goals, authentication, and data persistence. React Native, Expo, TypeScript.
-- **[SectorFlow](https://github.com/Aline-CROIRE/SectorFlow)**: Business-sector selection interface that adapts the experience with conditional UI logic. React, Vite, JavaScript. [Live Demo](https://sector-flow.vercel.app/select-sector)
-- **[Botiga](https://github.com/Aline-CROIRE/Botiga)**: E-commerce frontend focused on product discovery, categories, and search. HTML, CSS, JavaScript, React. [Live Demo](https://botigashop2.netlify.app/)
+- **[Procurement System API](https://github.com/Aline-CROIRE/Procurement-API)**: Backend API for procurement management with authentication, roles, business logic, and interactive documentation. `Node.js` `Express` `PostgreSQL` `Swagger` · [API Docs](https://procurement-backend-1.onrender.com/api-docs/)
+- **[SelfGrowth App](https://github.com/Aline-CROIRE/SelfGrowth_App)**: Mobile app for personal growth, journaling, goals, authentication, and data persistence. `React Native` `Expo` `TypeScript`
+- **[SectorFlow](https://github.com/Aline-CROIRE/SectorFlow)**: Business-sector selection interface that adapts the experience with conditional UI logic. `React` `Vite` `JavaScript` · [Live Demo](https://sector-flow.vercel.app/select-sector)
+- **[Botiga](https://github.com/Aline-CROIRE/Botiga)**: E-commerce frontend focused on product discovery, categories, and search. `HTML` `CSS` `JavaScript` `React` · [Live Demo](https://botigashop2.netlify.app/)
 
 ---
 
@@ -136,7 +168,12 @@ Engineering depth in Python backends and AI-powered applications, applied to pro
 
 ## Connect
 
-[Portfolio](https://my-brand-khaki.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/aline-niyonizera-47615937/) &nbsp;·&nbsp; [GitHub](https://github.com/Aline-CROIRE) &nbsp;·&nbsp; [Email](mailto:niyocroirealine@gmail.com)
+<p align="center">
+  <a href="https://my-brand-khaki.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aline-niyonizera-47615937/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" alt="LinkedIn" /></a>
+  <a href="https://github.com/Aline-CROIRE"><img src="https://img.shields.io/badge/GitHub-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" alt="GitHub" /></a>
+  <a href="mailto:niyocroirealine@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&labelColor=0d1117&color=58a6ff" alt="Email" /></a>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,19,24&height=90&section=footer" width="100%" alt="" />
