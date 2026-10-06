@@ -19,66 +19,56 @@
 
 ## About
 
-Hi, I'm **Aline**, a Software Engineer from Kigali, Rwanda.
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=3FB950&vCenter=true&repeat=true&width=760&height=36&lines=Hi%2C+I%27m+Aline.+Software+Engineer+from+Kigali%2C+Rwanda.;Apprentice+at+AmaliTech%2C+2026+%E2%80%93+present.;Turning+real-world+problems+into+working+software." alt="Typing animation introducing Aline" />
 
-I'm drawn to the moment a real-world problem becomes something that works: an API that responds, a database that holds up, an interface people can actually use, a system that learns from data.
+```python
+aline = {
+    "name": "Aline NIYONIZERA",
+    "role": "Software Engineer",
+    "based_in": "Kigali, Rwanda",
+    "education": "Computer & Software Engineering, University of Rwanda",
+    "currently": "Apprentice at AmaliTech (2026 - present)",
+    "direction": [
+        "Backend Engineering",
+        "AI Application Development",
+        "Full-Stack Development",
+    ],
+    "interests": [
+        "Software Architecture",
+        "Data & Intelligent Systems",
+        "Technology Entrepreneurship",
+        "African Technology Innovation",
+    ],
+}
+```
 
-<br />
-
-> [!NOTE]
-> **Education**
->
-> Computer & Software Engineering at the University of Rwanda.
-
-> [!TIP]
-> **Right now**
->
-> Apprentice at **AmaliTech** (2026 – present), building professional depth in Python backend engineering and AI application development.
-
-> [!IMPORTANT]
-> **Direction**
->
-> Backend engineering and AI applications, while continuing to build full-stack products. My entrepreneurial projects taught me to ship; now I'm sharpening the engineering underneath them.
-
-<br />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Architecture-58a6ff?style=flat-square" alt="Software Architecture" />
-  <img src="https://img.shields.io/badge/Data_%26_Intelligent_Systems-a371f7?style=flat-square" alt="Data and Intelligent Systems" />
-  <img src="https://img.shields.io/badge/Technology_Entrepreneurship-3fb950?style=flat-square" alt="Technology Entrepreneurship" />
-  <img src="https://img.shields.io/badge/African_Technology_Innovation-f0883e?style=flat-square" alt="African Technology Innovation" />
-</p>
-
-<br />
+I'm drawn to the moment a real-world problem becomes something that works: an API that responds, a database that holds up, an interface people can actually use, a system that learns from data. My entrepreneurial projects taught me to ship; at AmaliTech I'm sharpening the engineering underneath them.
 
 ---
 
 ## Current Focus
 
-I'm strengthening the foundations professional engineering rests on.
+```python
+class CurrentFocus:
+    backend = [
+        "Python Backend Engineering",
+        "REST API Development",
+        "Databases",
+        "Software Architecture",
+    ]
+    ai = ["AI Application Development", "Machine Learning"]
+    quality = ["Software Testing"]
+    reach = ["Full-Stack Development"]
 
-**Backend and architecture**
-- Python backend engineering
-- REST API development
-- Databases and software architecture
 
-**AI and intelligent systems**
-- AI application development
-- Machine learning
-
-**Quality and reach**
-- Software testing
-- Full-stack development, so what I build works end to end
-
-<br />
-
-The engineer I'm working toward is one who can understand a problem, design a solution, build it, test it, and keep improving it.
-
-```mermaid
-flowchart LR
-    A[Understand] --> B[Design] --> C[Build] --> D[Test] --> E[Improve]
-    E -.-> A
+def engineer(problem):
+    solution = design(understand(problem))
+    build(solution)
+    test(solution)
+    return improve(solution)
 ```
+
+The engineer I'm working toward can understand a problem, design a solution, build it, test it, and keep improving it.
 
 ---
 
@@ -126,17 +116,19 @@ Source: see my [GitHub profile](https://github.com/Aline-CROIRE)
 
 ## Technology
 
-The ecosystem I work with. Depth is currently being built around Python backend and AI application development.
-
-| | |
-|:--|:--|
-| **Languages** | `Python` `Java` `JavaScript` `TypeScript` `Dart` `C` |
-| **Backend** | `FastAPI` `Node.js` `Express` `Spring Boot` |
-| **Frontend** | `React` `Next.js` `HTML5` `CSS3` |
-| **Mobile** | `Flutter` `React Native` `Expo` `Firebase` |
-| **Data & Infrastructure** | `PostgreSQL` `MongoDB` `Redis` `RabbitMQ` `Docker` `Nginx` `Linux` |
-| **AI / ML** | `PyTorch` `TensorFlow` `OpenCV` `Hugging Face` |
-| **Tools** | `Git` `GitHub` `VS Code` `Figma` |
+```python
+# The ecosystem I work with, not a list of specialities.
+# Depth is currently being built around Python backend and AI applications.
+stack = {
+    "languages": ["Python", "Java", "JavaScript", "TypeScript", "Dart", "C"],
+    "backend": ["FastAPI", "Node.js", "Express", "Spring Boot"],
+    "frontend": ["React", "Next.js", "HTML5", "CSS3"],
+    "mobile": ["Flutter", "React Native", "Expo", "Firebase"],
+    "data_and_infra": ["PostgreSQL", "MongoDB", "Redis", "RabbitMQ", "Docker", "Nginx", "Linux"],
+    "ai_ml": ["PyTorch", "TensorFlow", "OpenCV", "Hugging Face"],
+    "tools": ["Git", "GitHub", "VS Code", "Figma"],
+}
+```
 
 ---
 
@@ -164,14 +156,22 @@ Earlier projects that shaped how I build.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f3a5c&hide_border=true&radius=10&custom_title=Contribution%20Timeline" alt="Contribution timeline" width="100%" />
+  <img src="https://ghchart.rshah.org/58a6ff/Aline-CROIRE" alt="Contribution calendar" width="100%" />
 </p>
 
 ---
 
 ## What I Am Building Toward
 
-Engineering depth in Python backends and AI-powered applications, applied to problems that matter in Rwanda and across Africa. I want to keep shipping real products, keep learning in public, and keep raising the standard of what I build.
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1200&color=A371F7&vCenter=true&repeat=true&width=760&height=36&lines=Depth+in+Python+backends+and+AI+applications.;Real+products+for+Rwanda+and+across+Africa.;Keep+learning.+Keep+building.+Keep+improving." alt="Typing animation about future direction" />
+
+```python
+next_chapter = {
+    "depth": "Python backends and AI-powered applications",
+    "impact": "Problems that matter in Rwanda and across Africa",
+    "habits": ["ship real products", "learn in public", "raise the standard"],
+}
+```
 
 ---
 
