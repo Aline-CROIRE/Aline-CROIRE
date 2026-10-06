@@ -1,206 +1,143 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,19,24&height=220&section=header&text=Aline%20NIYONIZERA&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%C2%B7%20Backend%20%C2%B7%20AI%20%C2%B7%20Rwanda&descAlignY=62&descSize=17&descColor=c9d1d9" alt="Aline NIYONIZERA, Software Engineer · Backend · AI · Rwanda" width="100%" />
+</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,19,24&height=230&section=header&text=Aline%20NIYONIZERA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Software%20Engineer%20%7C%20Backend%20%7C%20AI%20%7C%20Rwanda&descAlignY=62&descSize=17&descColor=c9d1d9"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=760&height=40&lines=%24+whoami+%E2%86%92+Software+Engineer+%7C+Kigali%2C+Rwanda;%24+focus+%E2%86%92+Python+Backend+%7C+AI+Applications;%24+learning+%E2%86%92+APIs+%7C+Testing+%7C+Databases+%7C+Architecture;%24+building+%E2%86%92+Kimelia+Luxe+%7C+Invento+%7C+FinCore;%24+next+%E2%86%92+Understand+%7C+Design+%7C+Build+%7C+Test+%7C+Improve" alt="Typing animation" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="https://my-brand-khaki.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/aline-niyonizera-47615937/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:niyocroirealine@gmail.com">Email</a>
+</p>
 
+---
 
+## About
 
+I'm a Software Engineer based in Kigali, Rwanda, studying Computer & Software Engineering at the University of Rwanda and currently developing my professional skills through the **AmaliTech Apprenticeship Programme**.
 
-</div>
+I like turning real-world problems into working software, whether that means designing an API, shaping a database, building a user-facing application, or exploring where intelligent systems can help. My work so far spans full-stack products and entrepreneurial projects, and I'm now putting deliberate effort into backend engineering and applied AI.
 
-About
+**Currently**: Apprentice, Python Backend Engineering & AI Application Development at AmaliTech, Kigali (2026 – present)
 
-I am Aline NIYONIZERA, a Software Engineer from Kigali, Rwanda, currently developing my professional engineering skills through the AmaliTech Apprenticeship Programme.
+---
 
-My current focus is Python Backend Engineering and AI Application Development, while continuing to build full-stack systems and explore applied AI.
+## Current Focus
 
-I enjoy turning ideas and real-world problems into working software through backend development, APIs, databases, user-facing applications, and intelligent systems.
+I'm strengthening the foundations that professional engineering rests on:
 
-Education
+- **Python backend engineering** and **REST API development**
+- **AI application development** and **machine learning**
+- **Software testing**, **databases**, and **software architecture**
+- **Full-stack development**, so the systems I build work end to end
 
-University of Rwanda
-Computer & Software Engineering
+The kind of engineer I'm working toward: someone who can understand a problem, design a solution, build it, test it, and keep improving it.
 
-Current Position
+---
 
-AmaliTech
-Apprentice — Python Backend Engineering & AI Application Development
-Kigali, Rwanda · 2026 – Present
+## Featured Projects
 
-Current Focus
-Backend Engineering
-Python
-REST APIs
-AI Application Development
-Machine Learning
-Full-Stack Development
-Databases
-Software Architecture
-Testing and Debugging
+### Kimelia Luxe
 
-My goal is to become an engineer who can understand a problem, design the right solution, build it, test it, and continuously improve it.
+**AI-powered fashion commerce for African fashion.**
 
-Currently Building
-Kimelia Luxe
+A product under Kimelia Soft exploring how AI, virtual try-on, and digital commerce can improve online fashion shopping while giving African fashion sellers better digital tools.
 
-AI-powered fashion commerce focused on African fashion, virtual try-on, and digital tools for fashion sellers.
+`React` `JavaScript` `Styled-Components` `AI` `Computer Vision`
 
-Technologies
+[Live Demo](https://kimelia-lux.vercel.app/) &nbsp;·&nbsp; [Source Code](https://github.com/Aline-CROIRE/Kimelia-Luxe)
 
-React JavaScript Node.js AI Computer Vision
+[![Kimelia Luxe preview](https://api.microlink.io/?url=https://kimelia-lux.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitFor=4000)](https://kimelia-lux.vercel.app/)
 
-Links
+<br />
 
-Live Demo
-GitHub Repository
+### Invento
 
-<table width="100%"> <tr> <td align="center"> <img width="90%" src="https://api.microlink.io/?url=https://kimelia-lux.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitFor=4000" alt="Kimelia Luxe"/> </td> </tr> </table>
+**Intelligent inventory and business management.**
 
-Invento
+Inventory management, sales management, profit tracking, restocking insights, and business analytics in one place.
 
-Inventory and business management platform focused on stock tracking, sales management, profit tracking, analytics, and intelligent business insights.
+`React` `Node.js` `PostgreSQL` `AI`
 
-Technologies
+[Live Demo](https://invento-rouge.vercel.app/) &nbsp;·&nbsp; [Source Code](https://github.com/Aline-CROIRE/Invento)
 
-React Node.js PostgreSQL AI
+[![Invento preview](https://api.microlink.io/?url=https://invento-rouge.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitFor=4000)](https://invento-rouge.vercel.app/)
 
-Links
+<br />
 
-Live Demo
-GitHub Repository
+### FinCore Digital Banking
 
-<table width="100%"> <tr> <td align="center"> <img width="90%" src="https://api.microlink.io/?url=https://invento-rouge.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitFor=4000" alt="Invento"/> </td> </tr> </table>
+**A digital banking system exploring modern backend architecture.**
 
-FinCore Digital Banking
+An exploration of financial workflows, authentication, distributed services, messaging, and backend architecture. This project sits closest to the direction I'm growing into.
 
-A digital banking system exploring backend architecture, financial workflows, authentication, messaging, and distributed services.
+`Java` `Spring Boot` `Microservices` `MongoDB` `RabbitMQ` `Docker` `React`
 
-Technologies
+Source: see my [GitHub profile](https://github.com/Aline-CROIRE)
 
-Java Spring Boot Microservices MongoDB RabbitMQ Docker React
+---
 
-Repository
+## Technology
 
-GitHub Repository
+The ecosystem I work with. Depth is currently being built around Python backend and AI application development.
 
-Selected Work
-Procurement System API
+**Languages** &nbsp; Python · Java · JavaScript · TypeScript · Dart · C
 
-Backend API for procurement workflows including authentication, user roles, business logic, and interactive API documentation.
+**Backend** &nbsp; FastAPI · Node.js · Express · Spring Boot
 
-Node.js Express PostgreSQL Swagger
+**Frontend** &nbsp; React · Next.js · HTML5 · CSS3
 
-GitHub Repository
-API Documentation
+**Mobile** &nbsp; Flutter · React Native · Expo · Firebase
 
-<table width="100%"> <tr> <td align="center"> <img width="90%" src="https://api.microlink.io/?url=https://procurement-backend-1.onrender.com/api-docs/&screenshot=true&meta=false&embed=screenshot.url&waitFor=6000" alt="Procurement API"/> </td> </tr> </table>
+**Data & Infrastructure** &nbsp; PostgreSQL · MongoDB · Redis · RabbitMQ · Docker · Nginx · Linux
 
-Technology
-Languages
+**AI / ML** &nbsp; PyTorch · TensorFlow · OpenCV · Hugging Face
 
+**Tools** &nbsp; Git · GitHub · VS Code · Figma
 
+---
 
+## Selected Work
 
+Earlier projects that shaped how I build.
 
+- **[Procurement System API](https://github.com/Aline-CROIRE/Procurement-API)**: Backend API for procurement management with authentication, roles, business logic, and interactive documentation. Node.js, Express, PostgreSQL, Swagger. [API Docs](https://procurement-backend-1.onrender.com/api-docs/)
+- **[SelfGrowth App](https://github.com/Aline-CROIRE/SelfGrowth_App)**: Mobile app for personal growth, journaling, goals, authentication, and data persistence. React Native, Expo, TypeScript.
+- **[SectorFlow](https://github.com/Aline-CROIRE/SectorFlow)**: Business-sector selection interface that adapts the experience with conditional UI logic. React, Vite, JavaScript. [Live Demo](https://sector-flow.vercel.app/select-sector)
+- **[Botiga](https://github.com/Aline-CROIRE/Botiga)**: E-commerce frontend focused on product discovery, categories, and search. HTML, CSS, JavaScript, React. [Live Demo](https://botigashop2.netlify.app/)
 
+---
 
+## GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aline-CROIRE&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff&rank_icon=github&custom_title=GitHub+Stats" alt="GitHub stats" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aline-CROIRE&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&custom_title=Top+Languages" alt="Top languages" height="165" />
+</p>
 
-Backend
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Aline-CROIRE&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e" alt="GitHub streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aline-CROIRE&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f3a5c&hide_border=true&radius=10&custom_title=Contribution%20Timeline" alt="Contribution timeline" width="100%" />
+</p>
 
+---
 
+## What I Am Building Toward
 
+Engineering depth in Python backends and AI-powered applications, applied to problems that matter in Rwanda and across Africa. I want to keep shipping real products, keep learning in public, and keep raising the standard of what I build.
 
+---
 
+## Connect
 
-Frontend
+[Portfolio](https://my-brand-khaki.vercel.app/) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/aline-niyonizera-47615937/) &nbsp;·&nbsp; [GitHub](https://github.com/Aline-CROIRE) &nbsp;·&nbsp; [Email](mailto:niyocroirealine@gmail.com)
 
-
-
-
-
-
-
-Databases
-
-
-
-
-
-
-AI and Machine Learning
-
-
-
-
-
-
-
-Tools
-
-
-
-
-
-
-
-
-GitHub Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aline-CROIRE&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&title_color=58a6ff&icon_color=58a6ff&rank_icon=github&custom_title=Aline's+GitHub+Stats"/>
-
- 
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aline-CROIRE&layout=compact&langs_count=8&theme=github_dark&hide_border=true&border_radius=10&title_color=58a6ff&custom_title=Top+Languages"/>
-
-<br/><br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=Aline-CROIRE&theme=github-dark-blue&hide_border=true&border_radius=10&ring=58a6ff&fire=ff7b54&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e"/>
-
-</div>
-
-Contribution Timeline
-
-<div align="center">
-
-
-
-
-</div>
-
-Contribution Snake
-
-<div align="center">
-
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/output/github-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/output/github-snake.svg"/> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aline-CROIRE/Aline-CROIRE/output/github-snake.svg" width="100%"/> </picture>
-
-</div>
-
-Connect
-
-<div align="center">
-
-Portfolio
-LinkedIn
-GitHub
-Email
-
-</div>
-
-<br/>
-
-<div align="center">
-
-Software Engineer · Backend · AI · Building from Kigali, Rwanda
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,19,24&height=110&section=footer"/>
-
-<!-- README maintained by Aline NIYONIZERA -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,19,24&height=90&section=footer" width="100%" alt="" />
+</p>
